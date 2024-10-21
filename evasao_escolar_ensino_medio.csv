@@ -1,0 +1,501 @@
+Idade,Gênero,Série,Média de Notas,Frequência,Participação em Atividades Extracurriculares,Motivo da Evasão,Renda Familiar,Localização
+15,Feminino,3,8.2,80%,Sim,0,909,Urbana
+18,Feminino,1,6.7,90%,Sim,Problemas Familiares,628,Urbana
+16,Masculino,1,5.5,80%,Sim,Falta de Interesse,2671,Urbana
+15,Masculino,3,5.9,90%,Sim,Problemas Financeiros,2853,Urbana
+18,Masculino,1,9.0,50%,Não,0,2971,Rural
+18,Feminino,2,5.8,80%,Sim,0,886,Urbana
+18,Feminino,3,4.2,80%,Sim,0,1722,Urbana
+18,Feminino,1,7.0,80%,Sim,Outros,1281,Rural
+16,Masculino,3,3.6,90%,Não,Outros,2312,Urbana
+18,Masculino,3,9.7,80%,Sim,0,1384,Rural
+16,Feminino,2,8.7,70%,Não,Outros,1156,Urbana
+17,Masculino,3,1.6,50%,Sim,0,1714,Urbana
+15,Masculino,3,6.8,60%,Não,0,527,Urbana
+18,Feminino,3,0.3,60%,Sim,0,1402,Urbana
+17,Masculino,3,8.9,90%,Não,0,2912,Urbana
+15,Masculino,3,8.4,50%,Sim,Problemas Financeiros,1054,Rural
+15,Masculino,1,5.1,50%,Sim,0,899,Urbana
+15,Feminino,3,1.3,60%,Não,0,2480,Rural
+17,Masculino,1,6.2,90%,Não,0,1018,Rural
+16,Feminino,1,2.4,70%,Sim,0,1105,Rural
+17,Masculino,2,6.3,50%,Sim,Outros,2403,Rural
+18,Feminino,2,6.9,60%,Sim,Problemas Financeiros,2445,Rural
+18,Masculino,3,1.1,70%,Não,Problemas Familiares,2112,Rural
+17,Feminino,2,4.8,70%,Não,0,2612,Urbana
+15,Feminino,1,5.9,70%,Não,Falta de Interesse,1458,Rural
+16,Masculino,3,2.5,80%,Não,Problemas Financeiros,550,Urbana
+16,Masculino,2,2.0,70%,Sim,Problemas Financeiros,677,Urbana
+16,Feminino,1,6.4,70%,Não,0,1936,Urbana
+16,Masculino,2,7.6,60%,Não,Problemas Familiares,1518,Rural
+15,Feminino,3,3.6,90%,Sim,0,2997,Urbana
+16,Masculino,2,7.1,80%,Não,Falta de Interesse,1574,Urbana
+15,Feminino,3,5.9,60%,Sim,0,2939,Rural
+18,Masculino,3,8.1,60%,Não,Problemas Familiares,2524,Rural
+15,Masculino,2,2.0,70%,Sim,Outros,2865,Rural
+18,Masculino,3,8.0,80%,Sim,0,994,Urbana
+16,Masculino,3,2.7,90%,Sim,Outros,1674,Rural
+17,Feminino,3,3.0,90%,Sim,Falta de Interesse,1282,Rural
+18,Feminino,3,9.8,60%,Sim,Outros,819,Rural
+18,Masculino,2,0.5,80%,Sim,0,2003,Urbana
+15,Feminino,3,1.9,60%,Não,0,2377,Urbana
+17,Masculino,3,5.2,60%,Sim,0,1064,Rural
+18,Feminino,3,3.8,90%,Sim,0,891,Rural
+15,Feminino,3,2.4,90%,Não,Falta de Interesse,2952,Urbana
+16,Masculino,1,6.8,60%,Não,Outros,2936,Urbana
+18,Feminino,2,6.7,90%,Não,Falta de Interesse,2692,Rural
+16,Masculino,2,9.6,90%,Não,Falta de Interesse,2262,Urbana
+18,Masculino,1,8.8,70%,Não,0,751,Urbana
+18,Masculino,2,10.0,70%,Sim,0,1379,Rural
+17,Masculino,1,3.6,50%,Não,Problemas Financeiros,1282,Rural
+18,Masculino,2,0.5,50%,Sim,Problemas Familiares,1507,Urbana
+15,Feminino,2,3.3,60%,Sim,Problemas Financeiros,1243,Urbana
+16,Feminino,3,5.0,60%,Não,0,2563,Rural
+16,Masculino,1,1.7,60%,Sim,Outros,1154,Rural
+16,Masculino,1,0.9,60%,Sim,Falta de Interesse,2430,Urbana
+18,Masculino,2,4.5,90%,Não,Falta de Interesse,1258,Rural
+15,Masculino,1,9.3,50%,Sim,Outros,1096,Rural
+18,Feminino,3,7.6,60%,Não,Falta de Interesse,1629,Urbana
+17,Feminino,2,3.1,70%,Não,Problemas Financeiros,1064,Rural
+15,Masculino,2,8.9,90%,Não,0,2001,Rural
+18,Masculino,3,7.0,50%,Não,0,1335,Rural
+18,Feminino,1,4.6,90%,Sim,Problemas Familiares,2792,Urbana
+17,Masculino,1,2.6,80%,Sim,0,2336,Rural
+18,Feminino,2,5.8,60%,Não,0,1742,Rural
+17,Feminino,2,1.9,70%,Sim,Outros,719,Rural
+18,Feminino,3,7.4,50%,Não,Outros,2294,Rural
+15,Feminino,1,9.4,90%,Sim,0,2736,Rural
+17,Feminino,1,6.6,50%,Sim,0,2614,Rural
+15,Feminino,1,7.2,80%,Não,0,1249,Rural
+15,Feminino,3,1.6,70%,Não,Falta de Interesse,2576,Rural
+15,Feminino,3,7.5,90%,Sim,0,2797,Urbana
+16,Feminino,2,5.0,80%,Sim,0,2403,Rural
+16,Feminino,2,0.9,70%,Sim,Problemas Financeiros,1592,Rural
+17,Feminino,2,3.9,60%,Sim,Problemas Financeiros,1560,Rural
+15,Masculino,2,7.3,50%,Não,0,2373,Rural
+15,Masculino,1,5.8,80%,Sim,Problemas Financeiros,1548,Rural
+16,Feminino,1,3.1,50%,Sim,Outros,790,Rural
+18,Feminino,1,9.9,50%,Sim,Problemas Familiares,2534,Urbana
+15,Feminino,1,5.7,80%,Não,Problemas Financeiros,2493,Urbana
+16,Feminino,3,9.4,80%,Não,0,1816,Urbana
+17,Masculino,3,5.6,90%,Sim,Problemas Familiares,2973,Rural
+17,Masculino,1,5.6,70%,Sim,0,762,Urbana
+18,Feminino,2,0.5,60%,Não,0,2835,Rural
+15,Masculino,1,1.0,70%,Sim,0,1006,Rural
+16,Masculino,2,6.1,60%,Sim,Problemas Familiares,2150,Urbana
+16,Feminino,3,7.3,60%,Sim,Problemas Financeiros,2787,Rural
+18,Masculino,3,2.4,90%,Não,0,1504,Urbana
+16,Feminino,2,9.6,70%,Sim,Problemas Financeiros,678,Urbana
+16,Masculino,1,7.4,80%,Sim,Outros,1284,Urbana
+18,Feminino,1,2.4,50%,Sim,0,959,Urbana
+17,Masculino,2,6.4,90%,Não,0,660,Urbana
+18,Masculino,1,3.4,90%,Não,0,2394,Urbana
+18,Feminino,1,7.3,90%,Sim,0,973,Urbana
+17,Masculino,3,5.8,80%,Sim,0,1050,Rural
+17,Masculino,2,7.6,50%,Sim,0,2833,Rural
+18,Masculino,1,2.5,60%,Sim,Problemas Familiares,2119,Urbana
+15,Masculino,3,9.3,80%,Sim,0,832,Urbana
+17,Masculino,1,9.9,70%,Não,Problemas Familiares,2438,Rural
+18,Feminino,1,1.6,70%,Não,Problemas Familiares,1588,Urbana
+16,Masculino,2,5.1,80%,Sim,0,2973,Urbana
+15,Feminino,1,8.6,90%,Não,Problemas Familiares,1674,Rural
+16,Masculino,3,3.5,80%,Sim,Problemas Familiares,1182,Urbana
+17,Masculino,1,2.4,50%,Não,0,2552,Rural
+15,Feminino,2,7.3,60%,Não,0,2680,Rural
+18,Feminino,1,9.8,60%,Sim,Outros,1926,Rural
+15,Feminino,1,5.0,60%,Não,Falta de Interesse,2562,Rural
+17,Feminino,2,3.9,60%,Não,0,510,Urbana
+15,Masculino,1,3.9,90%,Não,0,806,Urbana
+18,Masculino,1,7.9,70%,Não,0,1489,Urbana
+18,Feminino,2,7.1,70%,Sim,Problemas Financeiros,503,Rural
+15,Masculino,1,3.2,80%,Não,Outros,2118,Rural
+18,Feminino,3,9.7,60%,Sim,0,2910,Rural
+15,Feminino,1,8.9,70%,Sim,0,1570,Rural
+15,Feminino,1,7.0,50%,Não,0,2999,Urbana
+15,Feminino,2,4.4,80%,Sim,Problemas Familiares,1070,Urbana
+15,Masculino,2,2.1,90%,Sim,Problemas Familiares,1143,Urbana
+17,Masculino,2,6.6,70%,Sim,Outros,2746,Urbana
+18,Feminino,2,7.5,60%,Sim,Problemas Financeiros,1164,Rural
+15,Masculino,1,6.0,90%,Sim,0,2219,Rural
+18,Masculino,3,5.0,50%,Não,Problemas Familiares,2991,Urbana
+17,Feminino,3,1.2,50%,Sim,0,2199,Rural
+18,Feminino,3,7.8,50%,Sim,0,1783,Urbana
+18,Feminino,2,4.9,90%,Não,Falta de Interesse,2034,Rural
+16,Masculino,1,8.5,70%,Não,0,2916,Rural
+16,Masculino,1,1.3,70%,Não,0,1083,Rural
+16,Masculino,1,9.7,60%,Não,0,2657,Rural
+15,Feminino,3,4.9,90%,Não,0,1715,Rural
+16,Feminino,3,0.7,70%,Sim,Problemas Financeiros,2660,Urbana
+16,Masculino,2,2.8,80%,Sim,0,1901,Rural
+16,Feminino,3,9.0,60%,Sim,0,505,Rural
+18,Masculino,3,3.3,70%,Sim,Problemas Financeiros,936,Urbana
+15,Masculino,3,9.7,80%,Sim,Falta de Interesse,2463,Urbana
+18,Masculino,3,4.4,60%,Sim,0,1402,Urbana
+16,Feminino,1,3.7,50%,Não,0,889,Rural
+17,Feminino,3,7.9,50%,Não,Outros,732,Rural
+15,Masculino,3,4.7,80%,Não,Outros,2110,Urbana
+16,Feminino,3,0.8,50%,Sim,0,1147,Urbana
+17,Masculino,3,8.3,80%,Sim,Falta de Interesse,2321,Rural
+15,Feminino,3,7.9,60%,Não,Outros,838,Rural
+17,Masculino,3,5.1,70%,Não,0,547,Rural
+15,Masculino,2,0.1,60%,Não,0,2992,Rural
+16,Feminino,2,1.4,80%,Sim,Problemas Financeiros,2867,Rural
+18,Masculino,1,7.1,90%,Não,Problemas Familiares,2998,Urbana
+17,Masculino,2,5.9,90%,Não,0,797,Urbana
+17,Masculino,1,7.0,80%,Não,Falta de Interesse,2065,Urbana
+16,Masculino,2,3.6,50%,Não,Outros,1620,Rural
+15,Masculino,2,6.3,80%,Sim,0,1320,Rural
+18,Feminino,2,4.3,70%,Não,0,1037,Rural
+16,Feminino,1,4.1,60%,Não,0,1159,Rural
+16,Feminino,1,4.2,80%,Não,Problemas Financeiros,1769,Rural
+18,Feminino,2,0.3,70%,Não,Outros,1103,Urbana
+15,Feminino,2,0.6,90%,Não,0,966,Urbana
+17,Feminino,1,8.5,80%,Sim,Outros,1461,Rural
+17,Feminino,1,7.0,50%,Sim,Problemas Familiares,1397,Rural
+18,Feminino,2,2.3,80%,Sim,Problemas Financeiros,1105,Urbana
+17,Masculino,2,1.2,90%,Não,Outros,2273,Urbana
+18,Masculino,2,0.4,70%,Não,Falta de Interesse,2518,Rural
+18,Masculino,2,4.8,80%,Não,Problemas Familiares,2818,Urbana
+18,Masculino,1,5.9,80%,Não,0,734,Rural
+17,Feminino,3,9.0,50%,Sim,Outros,2066,Rural
+16,Feminino,1,9.2,80%,Sim,0,2429,Urbana
+17,Feminino,1,3.7,60%,Não,Problemas Familiares,2986,Rural
+17,Feminino,3,9.3,80%,Sim,0,891,Rural
+18,Masculino,3,5.5,70%,Não,0,666,Rural
+17,Feminino,1,5.7,60%,Sim,0,592,Urbana
+18,Masculino,1,1.8,50%,Não,0,2121,Urbana
+18,Masculino,3,1.2,70%,Não,0,2763,Rural
+17,Feminino,3,2.4,50%,Sim,Outros,1945,Urbana
+17,Feminino,3,1.2,80%,Sim,0,1281,Rural
+18,Feminino,1,2.2,80%,Sim,0,609,Rural
+15,Masculino,2,5.4,80%,Sim,Problemas Familiares,2204,Urbana
+16,Feminino,3,8.7,90%,Não,Problemas Familiares,2858,Rural
+17,Feminino,2,7.9,90%,Sim,0,1973,Urbana
+18,Feminino,2,0.3,90%,Não,0,558,Rural
+17,Masculino,1,7.0,60%,Sim,0,2651,Rural
+16,Feminino,1,0.5,90%,Não,0,1376,Rural
+17,Feminino,2,10.0,80%,Não,Problemas Financeiros,1597,Rural
+16,Feminino,1,7.8,80%,Sim,Problemas Familiares,773,Urbana
+15,Feminino,3,2.3,50%,Não,Problemas Financeiros,805,Rural
+17,Feminino,3,4.9,70%,Não,Problemas Financeiros,1613,Urbana
+17,Masculino,2,7.4,70%,Sim,0,749,Urbana
+18,Masculino,2,8.4,60%,Não,0,615,Urbana
+15,Feminino,3,2.3,70%,Não,Problemas Familiares,1214,Urbana
+18,Masculino,3,1.3,60%,Não,Problemas Familiares,2835,Rural
+17,Masculino,2,9.3,50%,Não,Outros,1365,Rural
+18,Masculino,3,6.7,80%,Não,Problemas Familiares,2805,Urbana
+15,Feminino,1,8.8,80%,Sim,0,2004,Urbana
+15,Masculino,1,2.3,60%,Sim,0,2719,Urbana
+17,Feminino,2,1.3,90%,Não,0,1338,Urbana
+15,Masculino,1,3.5,50%,Sim,0,1490,Urbana
+17,Feminino,2,2.5,80%,Sim,0,2894,Rural
+18,Masculino,1,0.7,80%,Sim,Falta de Interesse,2010,Urbana
+17,Feminino,1,6.4,50%,Não,0,1157,Urbana
+17,Feminino,2,2.5,60%,Não,0,1792,Rural
+18,Masculino,3,4.5,90%,Sim,Problemas Financeiros,1896,Rural
+15,Feminino,2,2.9,60%,Não,Problemas Familiares,1435,Urbana
+15,Masculino,2,9.2,50%,Sim,Problemas Familiares,2404,Urbana
+15,Masculino,3,4.5,70%,Sim,Problemas Familiares,816,Urbana
+16,Masculino,1,8.8,60%,Sim,0,1498,Rural
+17,Feminino,2,0.4,70%,Sim,Problemas Financeiros,1682,Rural
+15,Masculino,2,5.4,50%,Não,Falta de Interesse,2781,Urbana
+16,Feminino,2,4.5,70%,Sim,Outros,2275,Rural
+17,Masculino,1,3.3,80%,Sim,0,922,Urbana
+18,Feminino,1,3.0,70%,Sim,Problemas Familiares,1787,Rural
+17,Feminino,3,2.7,90%,Sim,Falta de Interesse,2790,Rural
+17,Masculino,2,2.0,90%,Não,0,2358,Urbana
+18,Feminino,3,4.9,50%,Não,Outros,2625,Urbana
+16,Feminino,3,3.5,90%,Sim,0,1800,Rural
+15,Masculino,2,3.3,70%,Não,0,977,Urbana
+15,Feminino,2,0.7,80%,Não,0,788,Rural
+15,Feminino,3,0.1,50%,Não,Problemas Financeiros,2344,Rural
+18,Feminino,1,9.1,60%,Não,Problemas Financeiros,2987,Urbana
+18,Feminino,3,4.1,80%,Não,Problemas Financeiros,2528,Rural
+15,Feminino,1,6.8,60%,Não,Falta de Interesse,2988,Rural
+17,Masculino,1,4.5,50%,Sim,0,586,Rural
+17,Masculino,3,2.0,60%,Não,0,2777,Urbana
+15,Feminino,2,9.3,80%,Não,Falta de Interesse,1073,Rural
+15,Feminino,3,1.2,90%,Sim,Problemas Financeiros,1450,Urbana
+18,Feminino,3,4.8,50%,Sim,Problemas Familiares,1562,Urbana
+15,Feminino,1,0.9,90%,Não,0,1488,Rural
+16,Masculino,3,2.3,90%,Sim,Falta de Interesse,1188,Urbana
+17,Feminino,2,6.9,90%,Não,Outros,918,Urbana
+15,Masculino,3,5.3,80%,Não,0,2229,Urbana
+15,Masculino,3,5.5,70%,Sim,Outros,2786,Rural
+18,Feminino,1,8.3,90%,Não,0,645,Urbana
+16,Masculino,2,0.6,70%,Não,0,2838,Urbana
+18,Feminino,2,9.0,50%,Sim,0,641,Rural
+15,Masculino,1,6.5,60%,Sim,Outros,517,Urbana
+17,Feminino,2,6.4,90%,Não,Falta de Interesse,2057,Urbana
+16,Feminino,2,0.3,70%,Sim,Problemas Financeiros,726,Urbana
+16,Masculino,3,9.1,50%,Sim,Outros,1443,Rural
+16,Feminino,1,0.3,80%,Não,0,1690,Urbana
+18,Feminino,2,1.9,50%,Não,Problemas Familiares,1683,Urbana
+15,Masculino,1,9.0,80%,Não,0,1360,Urbana
+15,Feminino,3,1.3,60%,Não,0,2650,Rural
+15,Masculino,2,4.0,60%,Não,Falta de Interesse,614,Rural
+16,Masculino,1,7.6,70%,Sim,Problemas Familiares,1764,Rural
+16,Masculino,2,5.6,80%,Não,0,2360,Urbana
+17,Masculino,1,7.3,80%,Sim,Problemas Financeiros,2969,Rural
+16,Feminino,3,1.9,60%,Não,0,1079,Urbana
+15,Masculino,3,4.1,50%,Sim,Falta de Interesse,2569,Urbana
+15,Masculino,2,5.0,50%,Sim,Outros,2697,Rural
+16,Feminino,2,2.4,70%,Sim,Outros,1486,Urbana
+17,Masculino,1,10.0,60%,Sim,0,2870,Urbana
+16,Masculino,2,6.7,60%,Não,Problemas Financeiros,1556,Urbana
+16,Masculino,3,8.8,90%,Não,0,729,Urbana
+18,Feminino,3,3.9,70%,Não,0,2197,Rural
+16,Masculino,3,9.2,60%,Sim,0,1751,Urbana
+15,Feminino,2,2.5,90%,Sim,0,2478,Urbana
+15,Masculino,1,1.6,80%,Sim,Problemas Financeiros,1428,Urbana
+15,Masculino,3,7.9,90%,Não,0,2139,Urbana
+18,Masculino,3,9.7,60%,Não,0,1669,Urbana
+18,Masculino,2,0.6,50%,Sim,Falta de Interesse,1405,Urbana
+16,Feminino,2,1.0,70%,Sim,Problemas Familiares,2464,Rural
+17,Feminino,2,3.2,80%,Sim,Problemas Financeiros,2809,Urbana
+16,Feminino,2,5.3,50%,Não,Falta de Interesse,2666,Urbana
+18,Masculino,1,7.0,70%,Não,Outros,821,Urbana
+16,Masculino,2,9.6,80%,Sim,0,735,Urbana
+18,Feminino,1,1.2,80%,Sim,0,633,Rural
+15,Feminino,1,3.6,60%,Não,0,2782,Rural
+15,Masculino,3,2.7,90%,Não,Outros,696,Rural
+18,Feminino,3,8.1,50%,Sim,0,1450,Urbana
+16,Feminino,2,1.6,90%,Não,0,519,Rural
+17,Masculino,3,8.8,60%,Sim,Problemas Financeiros,2534,Urbana
+15,Feminino,1,7.7,60%,Sim,Outros,1153,Urbana
+17,Feminino,2,8.8,50%,Não,Falta de Interesse,511,Rural
+18,Masculino,2,9.7,80%,Sim,Falta de Interesse,1355,Urbana
+18,Feminino,2,5.7,70%,Não,Problemas Familiares,1882,Urbana
+17,Masculino,2,4.6,80%,Não,0,1066,Urbana
+18,Feminino,3,4.9,90%,Não,0,1087,Rural
+16,Feminino,2,9.0,50%,Não,Outros,2844,Urbana
+16,Masculino,1,2.1,60%,Não,0,2537,Urbana
+16,Masculino,2,3.8,80%,Sim,Problemas Familiares,1107,Urbana
+18,Masculino,3,6.4,50%,Sim,0,1015,Rural
+17,Masculino,1,7.2,70%,Sim,0,1003,Urbana
+15,Feminino,3,0.6,60%,Sim,0,1654,Rural
+15,Feminino,3,9.8,80%,Não,0,2491,Rural
+16,Masculino,3,3.3,60%,Não,Problemas Familiares,758,Urbana
+15,Masculino,3,2.1,90%,Sim,0,781,Rural
+18,Feminino,2,3.1,70%,Não,Outros,1913,Rural
+17,Feminino,3,9.8,70%,Sim,Falta de Interesse,2564,Rural
+18,Masculino,2,6.7,70%,Não,Problemas Financeiros,1638,Urbana
+18,Masculino,2,2.5,90%,Sim,Outros,636,Rural
+17,Masculino,3,2.0,80%,Não,Falta de Interesse,1221,Urbana
+15,Feminino,1,0.7,80%,Sim,0,1644,Rural
+17,Masculino,3,3.6,80%,Sim,0,1090,Rural
+18,Feminino,3,8.2,80%,Sim,0,1089,Urbana
+17,Masculino,2,2.8,80%,Sim,0,1068,Rural
+17,Masculino,2,3.7,50%,Não,Falta de Interesse,2295,Rural
+16,Feminino,2,7.6,90%,Sim,Falta de Interesse,1839,Urbana
+16,Masculino,2,7.0,70%,Não,0,2915,Rural
+18,Masculino,3,4.1,80%,Não,0,1524,Rural
+18,Masculino,1,1.6,80%,Sim,0,1434,Rural
+15,Feminino,1,8.9,70%,Sim,0,2407,Urbana
+18,Feminino,1,5.8,70%,Não,0,2184,Rural
+15,Masculino,1,2.6,50%,Sim,0,1332,Urbana
+15,Masculino,2,2.4,90%,Não,0,823,Urbana
+17,Masculino,3,4.5,60%,Sim,Problemas Financeiros,867,Rural
+17,Feminino,2,4.0,50%,Sim,Outros,561,Rural
+18,Masculino,2,0.7,60%,Não,0,2843,Rural
+16,Masculino,3,9.4,50%,Não,Problemas Financeiros,1839,Rural
+16,Feminino,3,7.9,90%,Não,0,708,Rural
+15,Masculino,3,5.0,90%,Sim,Falta de Interesse,973,Urbana
+18,Feminino,2,3.3,60%,Não,Problemas Familiares,1005,Rural
+15,Masculino,1,1.8,80%,Sim,Outros,1460,Rural
+17,Masculino,2,1.7,80%,Não,0,789,Urbana
+18,Feminino,2,2.4,80%,Sim,0,1805,Rural
+18,Feminino,3,2.2,60%,Não,0,1192,Urbana
+16,Masculino,2,7.1,80%,Sim,Problemas Financeiros,1188,Rural
+18,Masculino,1,7.7,70%,Não,Problemas Financeiros,2966,Urbana
+16,Feminino,1,3.6,70%,Sim,Problemas Financeiros,2152,Urbana
+18,Feminino,2,1.6,90%,Não,0,2076,Urbana
+17,Feminino,3,6.4,60%,Não,0,1446,Rural
+15,Masculino,2,3.3,80%,Não,0,2155,Rural
+16,Masculino,1,9.3,70%,Sim,Falta de Interesse,2586,Rural
+16,Masculino,1,7.9,80%,Sim,0,2695,Urbana
+18,Masculino,2,9.9,50%,Não,0,1673,Urbana
+18,Masculino,1,8.9,80%,Sim,Problemas Financeiros,919,Urbana
+18,Feminino,2,0.1,90%,Sim,Falta de Interesse,891,Urbana
+16,Masculino,1,0.6,50%,Sim,Problemas Financeiros,1016,Urbana
+16,Masculino,3,9.0,60%,Não,Outros,2601,Urbana
+16,Masculino,1,1.2,80%,Não,0,893,Rural
+18,Masculino,2,6.0,80%,Não,Outros,1464,Urbana
+18,Masculino,2,3.5,50%,Não,0,2443,Urbana
+17,Feminino,3,0.3,90%,Sim,0,592,Rural
+17,Feminino,1,0.8,90%,Sim,0,612,Rural
+17,Feminino,2,7.7,90%,Não,0,2481,Rural
+15,Feminino,1,8.4,60%,Não,0,2550,Rural
+18,Feminino,3,3.6,50%,Não,Falta de Interesse,2301,Rural
+18,Masculino,2,2.5,70%,Não,Falta de Interesse,2363,Rural
+16,Masculino,3,4.9,60%,Não,0,649,Urbana
+17,Feminino,2,1.5,90%,Não,0,1988,Rural
+18,Feminino,1,6.2,90%,Não,0,1090,Rural
+16,Feminino,2,7.4,80%,Não,Problemas Financeiros,2503,Urbana
+18,Feminino,3,7.0,60%,Não,Falta de Interesse,1600,Urbana
+18,Feminino,2,9.3,50%,Sim,0,1859,Rural
+16,Feminino,3,6.0,90%,Não,Problemas Financeiros,1223,Urbana
+16,Feminino,2,6.0,70%,Não,Outros,2102,Urbana
+16,Feminino,3,7.4,80%,Sim,Outros,1284,Rural
+15,Masculino,1,7.3,50%,Sim,Outros,831,Urbana
+17,Masculino,2,2.8,50%,Não,0,877,Urbana
+17,Masculino,1,8.0,50%,Sim,0,1853,Rural
+15,Feminino,2,9.0,80%,Sim,0,1546,Rural
+16,Feminino,2,7.8,70%,Não,0,2824,Rural
+16,Feminino,1,8.5,90%,Sim,0,1117,Rural
+15,Feminino,3,8.5,80%,Sim,0,1848,Urbana
+18,Masculino,1,2.5,80%,Não,0,1603,Urbana
+15,Masculino,1,8.3,70%,Não,Outros,1941,Rural
+15,Feminino,2,7.2,50%,Não,0,1379,Urbana
+18,Masculino,3,3.2,90%,Sim,Outros,1405,Urbana
+17,Feminino,3,6.7,60%,Sim,0,869,Urbana
+16,Feminino,1,6.7,50%,Sim,0,1115,Rural
+17,Feminino,1,8.0,50%,Sim,0,2459,Rural
+16,Feminino,3,0.0,70%,Não,Outros,2468,Urbana
+17,Feminino,1,6.5,60%,Não,Outros,1824,Urbana
+15,Masculino,2,6.7,90%,Sim,Problemas Familiares,1118,Urbana
+17,Masculino,2,5.8,90%,Sim,Outros,2805,Urbana
+15,Masculino,1,7.8,90%,Não,Falta de Interesse,2492,Rural
+16,Masculino,2,1.4,70%,Sim,Outros,1780,Urbana
+16,Feminino,3,3.0,60%,Sim,Outros,2687,Urbana
+16,Masculino,1,7.6,60%,Sim,Outros,978,Rural
+15,Masculino,2,3.4,50%,Sim,0,2399,Urbana
+18,Masculino,1,6.0,80%,Não,0,1353,Urbana
+15,Masculino,3,6.2,60%,Sim,Problemas Familiares,2293,Urbana
+18,Feminino,2,3.0,90%,Sim,Problemas Financeiros,2030,Urbana
+15,Feminino,3,4.6,90%,Não,0,1456,Rural
+15,Feminino,1,6.8,80%,Não,0,1094,Urbana
+15,Feminino,1,7.7,80%,Sim,Problemas Familiares,1384,Rural
+15,Feminino,2,6.5,50%,Sim,Falta de Interesse,1115,Urbana
+16,Masculino,3,3.9,50%,Não,Problemas Familiares,1548,Rural
+18,Feminino,1,0.3,70%,Sim,Outros,2616,Urbana
+18,Masculino,3,9.0,90%,Não,0,1730,Rural
+15,Masculino,3,0.1,70%,Sim,Problemas Financeiros,2804,Urbana
+18,Feminino,2,1.0,90%,Sim,0,1172,Urbana
+17,Feminino,3,7.8,70%,Não,0,1265,Urbana
+17,Feminino,1,0.6,50%,Sim,0,1255,Urbana
+16,Feminino,1,8.9,60%,Não,0,697,Urbana
+16,Feminino,2,9.0,80%,Sim,0,2450,Rural
+16,Masculino,3,0.6,90%,Sim,Outros,1187,Rural
+17,Masculino,1,9.5,50%,Não,0,2022,Rural
+16,Feminino,1,5.1,50%,Não,0,873,Rural
+16,Masculino,2,0.0,50%,Sim,0,2546,Urbana
+15,Masculino,3,5.2,70%,Não,Problemas Financeiros,1554,Urbana
+16,Feminino,3,3.8,80%,Sim,Problemas Familiares,2973,Rural
+17,Feminino,3,9.9,50%,Sim,Problemas Financeiros,2613,Urbana
+16,Feminino,1,2.6,70%,Sim,Falta de Interesse,1249,Rural
+16,Masculino,1,4.5,50%,Não,0,1573,Urbana
+15,Masculino,2,0.9,70%,Sim,0,872,Urbana
+15,Feminino,1,8.8,60%,Não,Falta de Interesse,2612,Rural
+16,Feminino,2,0.4,70%,Sim,0,2598,Urbana
+16,Masculino,2,7.7,90%,Não,0,1083,Urbana
+17,Masculino,3,2.8,80%,Não,Problemas Familiares,2062,Urbana
+18,Masculino,2,1.4,70%,Não,Problemas Financeiros,2003,Rural
+18,Feminino,3,7.0,80%,Sim,0,1650,Urbana
+16,Feminino,3,6.2,70%,Não,Falta de Interesse,2684,Rural
+18,Masculino,1,0.4,80%,Não,Problemas Familiares,1425,Rural
+18,Feminino,1,3.9,60%,Sim,Outros,540,Rural
+18,Masculino,2,5.6,90%,Não,Falta de Interesse,1357,Rural
+17,Feminino,2,3.6,90%,Não,0,1996,Rural
+17,Masculino,2,6.3,90%,Sim,Outros,1298,Urbana
+16,Feminino,2,4.6,70%,Não,Falta de Interesse,1949,Urbana
+17,Feminino,1,6.5,90%,Não,0,1904,Urbana
+18,Feminino,2,6.1,50%,Sim,0,2395,Urbana
+17,Feminino,3,2.0,50%,Sim,Problemas Financeiros,2363,Urbana
+15,Masculino,1,3.4,90%,Não,Outros,2138,Rural
+18,Masculino,3,3.0,90%,Sim,Problemas Financeiros,1817,Urbana
+18,Masculino,2,9.8,70%,Sim,Outros,2991,Urbana
+16,Feminino,1,2.4,90%,Sim,0,1172,Rural
+16,Feminino,3,2.3,80%,Sim,0,1253,Urbana
+16,Feminino,1,0.6,60%,Sim,Outros,1267,Rural
+17,Feminino,3,9.5,70%,Sim,Outros,2524,Rural
+16,Masculino,1,4.8,70%,Não,Outros,887,Urbana
+16,Masculino,3,9.9,50%,Sim,Outros,2075,Urbana
+16,Masculino,3,7.5,70%,Sim,Outros,921,Urbana
+17,Masculino,3,0.3,70%,Não,Problemas Familiares,2030,Rural
+15,Masculino,1,8.0,60%,Sim,0,1015,Rural
+18,Masculino,3,9.1,80%,Não,0,1023,Rural
+16,Feminino,3,7.4,60%,Não,0,1634,Urbana
+15,Feminino,2,2.7,80%,Não,0,1664,Rural
+18,Masculino,3,1.5,50%,Não,Problemas Financeiros,2388,Rural
+16,Feminino,2,1.9,60%,Não,0,2459,Urbana
+16,Masculino,1,9.9,60%,Sim,0,1066,Urbana
+17,Masculino,3,5.0,60%,Não,0,1578,Rural
+15,Feminino,1,10.0,90%,Não,0,2379,Urbana
+17,Masculino,2,6.6,90%,Sim,0,1211,Rural
+18,Feminino,2,9.3,60%,Sim,0,2223,Rural
+15,Masculino,1,6.4,70%,Não,0,982,Rural
+17,Masculino,3,2.5,50%,Sim,0,2305,Urbana
+15,Masculino,1,3.2,70%,Sim,0,1554,Urbana
+17,Masculino,2,9.0,50%,Não,0,1163,Rural
+15,Feminino,2,9.2,50%,Não,Problemas Financeiros,1429,Rural
+15,Masculino,3,6.4,90%,Sim,0,1402,Rural
+18,Masculino,2,1.0,50%,Sim,Problemas Financeiros,2572,Rural
+18,Feminino,3,2.6,60%,Sim,Outros,1558,Urbana
+18,Feminino,3,1.8,60%,Não,0,2140,Urbana
+15,Masculino,3,6.2,50%,Não,0,941,Urbana
+15,Masculino,2,1.5,90%,Sim,Problemas Financeiros,858,Urbana
+18,Feminino,1,4.4,70%,Sim,0,957,Urbana
+16,Masculino,1,5.5,90%,Sim,Problemas Familiares,1164,Rural
+18,Feminino,2,2.3,90%,Não,0,2257,Urbana
+17,Masculino,1,2.3,70%,Não,Outros,2041,Rural
+18,Feminino,1,2.7,60%,Não,Falta de Interesse,1764,Rural
+15,Masculino,2,9.0,80%,Não,0,1976,Rural
+18,Feminino,1,5.6,90%,Sim,0,2274,Rural
+15,Feminino,2,1.3,60%,Sim,Outros,2586,Rural
+18,Feminino,3,2.1,50%,Não,0,2932,Rural
+18,Masculino,3,9.4,90%,Não,Problemas Financeiros,2754,Rural
+16,Feminino,1,3.7,90%,Sim,0,2776,Rural
+17,Masculino,2,3.5,50%,Sim,0,2470,Urbana
+16,Feminino,3,4.7,80%,Sim,Outros,528,Urbana
+15,Feminino,2,3.9,80%,Não,0,1923,Rural
+15,Masculino,2,3.4,70%,Sim,0,1206,Rural
+18,Masculino,2,3.7,50%,Sim,0,1147,Rural
+15,Masculino,1,8.7,60%,Sim,Falta de Interesse,2501,Rural
+18,Feminino,3,6.9,60%,Sim,Problemas Familiares,2195,Urbana
+15,Feminino,1,0.2,80%,Sim,0,541,Urbana
+15,Masculino,2,9.6,70%,Não,0,1987,Urbana
+16,Masculino,3,8.2,70%,Não,0,882,Rural
+15,Masculino,1,9.2,60%,Não,Outros,682,Rural
+17,Masculino,3,2.4,70%,Não,0,2344,Rural
+17,Masculino,1,6.9,80%,Não,Outros,2666,Urbana
+17,Masculino,2,9.8,80%,Sim,Falta de Interesse,2284,Urbana
+15,Feminino,3,1.3,70%,Sim,Problemas Familiares,1939,Urbana
+15,Masculino,2,7.5,80%,Sim,0,586,Rural
+17,Masculino,2,2.4,80%,Sim,0,1648,Urbana
+15,Masculino,3,5.1,70%,Não,Outros,1336,Rural
+17,Masculino,3,2.5,80%,Não,Outros,2746,Rural
+18,Feminino,1,6.5,50%,Não,Problemas Familiares,2616,Rural
+17,Masculino,1,6.9,80%,Não,0,2516,Urbana
+18,Masculino,2,0.4,90%,Não,Outros,1732,Rural
+18,Masculino,1,5.5,60%,Sim,0,1010,Rural
+15,Feminino,3,6.4,50%,Sim,0,1962,Urbana
+16,Feminino,3,5.7,70%,Sim,Falta de Interesse,2139,Rural
+16,Masculino,3,2.7,60%,Não,0,1521,Rural
+16,Feminino,2,2.2,90%,Sim,Falta de Interesse,1771,Rural
+15,Masculino,1,1.5,60%,Sim,Problemas Financeiros,628,Rural
+15,Masculino,1,7.6,80%,Não,0,2111,Urbana
+18,Masculino,1,7.9,60%,Não,0,1576,Rural
+18,Feminino,1,5.5,70%,Sim,0,1733,Rural
+16,Masculino,1,5.3,80%,Não,Problemas Familiares,1885,Rural
+18,Masculino,1,3.6,80%,Sim,0,1187,Urbana
+15,Masculino,1,0.8,90%,Não,0,2584,Urbana
+18,Feminino,2,9.8,60%,Não,Problemas Financeiros,1912,Rural
+15,Feminino,1,8.7,90%,Não,0,2287,Rural
+16,Feminino,1,2.1,80%,Sim,Falta de Interesse,1509,Rural
+17,Masculino,1,4.2,80%,Não,Falta de Interesse,2751,Urbana
+17,Masculino,2,6.5,90%,Sim,0,721,Urbana
+15,Feminino,1,5.5,80%,Sim,Falta de Interesse,1247,Rural
+17,Masculino,2,2.5,60%,Não,Problemas Financeiros,690,Rural
+16,Feminino,2,3.2,50%,Sim,0,1185,Urbana
+18,Feminino,2,7.9,90%,Sim,Outros,2334,Rural
+18,Masculino,3,1.6,70%,Não,Problemas Financeiros,2708,Urbana
+18,Masculino,1,0.8,50%,Não,0,1397,Urbana
+16,Masculino,3,5.1,70%,Não,0,1248,Urbana
+17,Masculino,1,2.2,80%,Não,Problemas Financeiros,1699,Rural
+16,Masculino,2,2.3,50%,Não,Falta de Interesse,1822,Urbana
+17,Masculino,2,5.3,80%,Sim,0,864,Urbana
+18,Masculino,1,5.0,80%,Não,0,926,Rural
+17,Masculino,1,9.3,90%,Sim,Outros,2268,Rural
+16,Feminino,2,5.0,70%,Sim,Problemas Familiares,1499,Urbana
+17,Masculino,1,2.0,60%,Sim,0,2141,Urbana
