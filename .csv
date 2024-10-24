@@ -1,0 +1,1001 @@
+Idade,Gênero,Série,Média de Notas,Frequência,Participação em Atividades Extracurriculares,Motivo da Evasão,Renda Familiar,Localização
+14,Masculino,3,9.7,98.1%,Sim,0,4870,Rural
+18,Feminino,3,7.9,84.9%,Sim,0,851,Urbana
+16,Feminino,3,5.7,93.0%,Não,Falta de Apoio Escolar,2526,Urbana
+15,Feminino,2,5.1,85.1%,Não,Falta de Apoio Escolar,2140,Urbana
+17,Masculino,2,5.4,73.0%,Não,0,4380,Urbana
+16,Feminino,3,8.7,59.9%,Não,0,4179,Rural
+14,Feminino,2,8.0,74.5%,Não,0,839,Rural
+17,Feminino,1,5.7,62.4%,Não,0,4165,Urbana
+17,Feminino,2,7.0,97.3%,Sim,Falta de Interesse,3789,Rural
+18,Masculino,2,8.1,98.0%,Sim,0,4187,Urbana
+19,Feminino,3,9.0,55.5%,Sim,Falta de Interesse,3117,Rural
+18,Masculino,3,8.5,76.9%,Não,Falta de Apoio Escolar,3403,Urbana
+17,Feminino,3,6.0,52.7%,Sim,Falta de Apoio Familiar,2576,Urbana
+18,Feminino,3,9.2,73.9%,Não,0,3803,Urbana
+18,Feminino,2,8.8,68.2%,Sim,Problemas Financeiros,1196,Rural
+16,Masculino,2,9.8,88.6%,Sim,Problemas de Saúde,4174,Urbana
+17,Masculino,3,7.3,67.2%,Não,0,3678,Rural
+15,Feminino,3,6.9,74.9%,Sim,Outros,1199,Urbana
+18,Masculino,3,8.3,96.0%,Sim,0,3182,Urbana
+17,Feminino,3,7.8,85.6%,Não,Falta de Apoio Familiar,4116,Rural
+15,Masculino,2,9.0,68.4%,Sim,0,1093,Rural
+19,Feminino,2,7.4,82.2%,Sim,0,2307,Urbana
+18,Masculino,2,7.4,79.0%,Não,0,4489,Rural
+16,Feminino,3,7.2,63.6%,Sim,0,1348,Urbana
+14,Masculino,1,9.1,54.0%,Não,0,3589,Urbana
+16,Masculino,1,8.0,77.4%,Sim,0,1012,Rural
+19,Masculino,2,8.5,72.7%,Sim,0,3270,Urbana
+18,Masculino,1,8.4,54.5%,Sim,0,1488,Urbana
+17,Masculino,1,9.1,74.2%,Sim,0,2577,Rural
+19,Feminino,2,5.7,94.6%,Sim,Problemas de Saúde,3435,Rural
+14,Feminino,2,7.5,96.5%,Não,0,4886,Rural
+14,Masculino,3,6.5,80.2%,Sim,0,1428,Urbana
+14,Masculino,3,8.3,99.8%,Não,0,1704,Urbana
+18,Masculino,3,8.8,61.6%,Não,0,3319,Urbana
+14,Masculino,1,7.8,62.5%,Sim,0,2953,Rural
+17,Feminino,2,6.5,80.9%,Sim,Falta de Apoio Familiar,4336,Rural
+17,Feminino,2,7.2,77.9%,Não,0,4197,Urbana
+19,Feminino,2,7.3,78.8%,Não,0,2709,Urbana
+17,Masculino,3,7.8,94.3%,Sim,0,3971,Urbana
+16,Masculino,1,7.3,77.5%,Não,0,4930,Rural
+19,Masculino,2,6.6,83.8%,Sim,0,1027,Rural
+16,Masculino,3,6.3,81.0%,Sim,0,4973,Urbana
+14,Masculino,2,5.7,83.9%,Não,Problemas de Saúde,1766,Urbana
+19,Masculino,1,9.0,65.5%,Não,0,4592,Urbana
+19,Feminino,1,9.3,72.5%,Não,Problemas de Saúde,2715,Urbana
+19,Masculino,1,7.3,93.7%,Não,0,1865,Rural
+14,Feminino,2,5.1,99.9%,Não,Falta de Apoio Familiar,2674,Urbana
+14,Feminino,2,9.9,80.4%,Não,0,879,Urbana
+15,Masculino,2,8.3,66.3%,Não,0,849,Rural
+16,Masculino,2,8.4,99.9%,Sim,0,3828,Rural
+15,Masculino,3,6.6,92.8%,Sim,0,4232,Rural
+18,Masculino,2,9.7,69.4%,Não,0,4068,Rural
+17,Masculino,3,6.0,73.8%,Sim,0,4792,Urbana
+15,Feminino,1,7.5,90.5%,Sim,0,1248,Urbana
+14,Feminino,3,7.3,75.1%,Sim,Falta de Apoio Escolar,4317,Urbana
+15,Feminino,3,8.8,83.3%,Não,0,3642,Rural
+16,Masculino,1,7.7,96.8%,Não,Falta de Apoio Escolar,3044,Rural
+16,Masculino,1,9.8,54.6%,Não,Problemas Familiares,3313,Rural
+16,Feminino,2,7.6,64.1%,Sim,Outros,2880,Urbana
+17,Feminino,1,6.7,95.2%,Sim,Outros,1277,Urbana
+16,Feminino,1,7.5,79.4%,Sim,Falta de Apoio Familiar,1370,Urbana
+15,Masculino,3,7.4,73.1%,Sim,0,931,Urbana
+15,Feminino,2,6.8,89.4%,Não,Problemas de Saúde,2725,Urbana
+14,Masculino,2,5.8,80.6%,Não,0,2552,Urbana
+19,Feminino,1,8.9,77.9%,Sim,Problemas Familiares,3368,Urbana
+18,Feminino,3,6.0,99.6%,Não,0,1360,Rural
+19,Masculino,3,7.4,72.2%,Não,0,2657,Rural
+19,Feminino,3,7.3,91.1%,Não,Problemas de Saúde,3914,Urbana
+19,Feminino,1,5.2,78.4%,Não,0,3063,Rural
+19,Feminino,1,8.8,86.5%,Sim,0,2101,Rural
+17,Masculino,2,5.0,79.2%,Sim,Problemas Familiares,4481,Urbana
+18,Masculino,2,7.0,51.4%,Sim,0,4735,Rural
+14,Masculino,3,8.7,65.5%,Não,0,1778,Urbana
+15,Feminino,1,7.7,80.9%,Não,0,4215,Rural
+18,Masculino,1,6.5,88.8%,Não,Falta de Interesse,3669,Rural
+17,Masculino,1,7.8,50.1%,Não,0,1453,Urbana
+16,Feminino,3,5.6,81.8%,Sim,0,1807,Urbana
+15,Feminino,2,6.5,85.3%,Não,0,2943,Urbana
+19,Feminino,1,6.5,81.5%,Sim,Falta de Apoio Familiar,2115,Rural
+17,Masculino,2,5.3,73.2%,Sim,0,2240,Urbana
+16,Masculino,3,9.3,54.0%,Sim,0,1077,Rural
+17,Masculino,3,7.1,66.4%,Sim,0,1623,Rural
+19,Masculino,3,8.4,98.6%,Não,0,2227,Rural
+14,Feminino,2,6.0,73.3%,Sim,0,3981,Urbana
+19,Feminino,3,5.5,88.9%,Sim,0,1957,Rural
+16,Feminino,3,5.0,79.8%,Não,Problemas Financeiros,3584,Rural
+19,Masculino,1,5.3,93.3%,Não,0,1832,Rural
+17,Feminino,2,6.0,64.9%,Não,0,2709,Rural
+16,Masculino,3,6.1,77.9%,Não,0,3731,Urbana
+15,Feminino,1,8.2,63.3%,Sim,0,3931,Urbana
+15,Feminino,1,8.6,89.6%,Não,0,4465,Rural
+15,Masculino,1,9.0,91.8%,Sim,0,1072,Rural
+17,Masculino,3,9.2,65.5%,Sim,0,4944,Urbana
+18,Feminino,1,6.3,92.3%,Sim,Falta de Interesse,2865,Urbana
+18,Masculino,3,5.7,55.5%,Sim,0,4855,Urbana
+14,Feminino,2,6.7,83.8%,Sim,0,3119,Urbana
+14,Feminino,2,8.2,80.2%,Sim,Outros,932,Urbana
+14,Feminino,1,9.3,54.8%,Não,Outros,3544,Rural
+15,Feminino,3,7.7,77.5%,Não,0,4763,Urbana
+14,Masculino,2,5.7,84.2%,Não,Outros,1291,Rural
+17,Masculino,2,5.8,87.4%,Sim,0,3527,Rural
+14,Feminino,3,5.7,92.4%,Sim,Problemas de Saúde,1408,Rural
+16,Feminino,1,10.0,88.8%,Sim,0,1914,Rural
+16,Feminino,1,9.1,85.6%,Não,0,2755,Urbana
+16,Masculino,1,6.8,64.1%,Não,0,2211,Urbana
+16,Feminino,3,6.0,87.1%,Sim,0,2386,Rural
+14,Masculino,1,8.1,52.3%,Não,0,1853,Urbana
+15,Feminino,3,5.6,84.7%,Sim,Outros,3534,Rural
+16,Feminino,1,6.4,78.3%,Sim,Outros,4317,Urbana
+16,Masculino,2,6.9,88.3%,Não,0,2080,Urbana
+14,Masculino,2,7.1,87.7%,Não,0,4943,Rural
+16,Masculino,1,6.5,92.8%,Sim,0,2077,Rural
+16,Feminino,3,9.5,69.3%,Não,Falta de Apoio Escolar,1563,Urbana
+19,Masculino,1,7.9,63.3%,Não,0,2977,Rural
+14,Masculino,2,5.5,73.2%,Não,0,4021,Urbana
+18,Masculino,3,8.7,79.4%,Sim,0,3022,Rural
+19,Feminino,1,6.3,66.3%,Não,0,3359,Urbana
+17,Feminino,2,6.6,86.3%,Sim,0,1320,Urbana
+16,Masculino,2,9.1,67.7%,Sim,0,3227,Urbana
+17,Masculino,1,7.7,88.5%,Sim,0,2048,Rural
+18,Masculino,3,6.5,97.1%,Não,0,2666,Rural
+15,Feminino,2,8.8,66.7%,Não,0,2420,Rural
+15,Feminino,2,8.1,98.5%,Não,Falta de Apoio Escolar,1016,Rural
+18,Masculino,2,9.7,67.6%,Não,0,4017,Urbana
+15,Masculino,2,8.5,92.0%,Não,0,1497,Urbana
+17,Masculino,1,9.5,53.0%,Sim,0,2890,Urbana
+16,Masculino,1,6.6,67.3%,Não,Outros,2339,Rural
+17,Feminino,3,6.3,90.3%,Sim,0,2480,Urbana
+18,Masculino,2,6.3,55.6%,Não,0,1142,Urbana
+18,Feminino,3,8.6,72.2%,Sim,Outros,2663,Urbana
+17,Masculino,2,7.6,97.5%,Não,0,1968,Urbana
+17,Feminino,2,5.1,95.9%,Sim,0,2135,Rural
+15,Masculino,3,9.3,63.1%,Não,0,4111,Urbana
+14,Masculino,1,6.5,87.5%,Sim,0,3149,Urbana
+15,Masculino,2,7.5,61.2%,Não,0,4442,Urbana
+18,Masculino,1,6.2,61.4%,Sim,0,2808,Urbana
+14,Masculino,1,5.9,63.5%,Sim,0,4910,Rural
+19,Masculino,2,8.4,72.0%,Sim,0,2319,Urbana
+17,Feminino,3,6.5,54.4%,Não,0,2756,Urbana
+14,Feminino,3,6.5,85.4%,Não,Problemas de Saúde,1786,Rural
+17,Feminino,2,6.6,55.1%,Não,0,1418,Urbana
+16,Feminino,2,9.4,55.9%,Não,Falta de Apoio Escolar,3180,Urbana
+17,Masculino,1,7.2,80.4%,Sim,0,3713,Rural
+19,Feminino,1,7.8,94.4%,Sim,Falta de Interesse,4991,Urbana
+16,Feminino,1,8.4,51.1%,Sim,Problemas de Saúde,3142,Rural
+18,Masculino,3,5.6,84.2%,Sim,0,1795,Rural
+14,Masculino,3,6.0,86.7%,Sim,Problemas Financeiros,2007,Urbana
+17,Feminino,1,8.3,85.5%,Sim,0,1469,Rural
+17,Feminino,2,6.6,84.6%,Sim,0,2596,Rural
+17,Masculino,2,9.3,91.5%,Sim,0,3783,Rural
+14,Masculino,3,8.4,62.5%,Sim,0,1605,Rural
+17,Feminino,3,7.6,87.3%,Não,Outros,2128,Rural
+15,Masculino,1,8.8,79.7%,Não,0,1800,Urbana
+19,Masculino,1,9.0,67.4%,Não,0,4496,Urbana
+15,Feminino,3,8.5,59.5%,Não,0,4568,Rural
+17,Masculino,2,8.6,79.5%,Sim,0,4659,Rural
+18,Feminino,2,7.6,50.4%,Sim,Problemas de Saúde,2233,Rural
+14,Masculino,1,6.7,55.6%,Não,Problemas Financeiros,3694,Rural
+18,Masculino,1,8.6,68.0%,Sim,Problemas Financeiros,3164,Urbana
+19,Feminino,1,9.8,86.1%,Não,0,2103,Urbana
+16,Feminino,2,7.6,79.6%,Sim,0,4902,Rural
+14,Feminino,2,9.1,50.2%,Não,0,1839,Rural
+17,Feminino,3,5.8,74.3%,Não,0,1873,Urbana
+16,Feminino,1,9.5,84.4%,Sim,Outros,4255,Rural
+15,Feminino,1,5.1,69.0%,Não,Problemas de Saúde,3214,Urbana
+14,Masculino,3,7.2,88.7%,Não,0,1610,Rural
+18,Feminino,3,5.8,77.6%,Não,0,1648,Rural
+19,Feminino,3,7.9,96.1%,Sim,0,956,Urbana
+14,Masculino,2,6.8,53.1%,Sim,Problemas Familiares,1792,Rural
+14,Feminino,3,5.3,89.9%,Sim,Problemas Familiares,4921,Urbana
+15,Masculino,1,6.0,71.8%,Sim,Falta de Apoio Escolar,875,Urbana
+15,Feminino,1,6.5,84.5%,Não,0,1928,Urbana
+16,Masculino,2,5.4,50.3%,Sim,0,4328,Urbana
+18,Masculino,3,6.7,52.2%,Sim,0,4814,Rural
+14,Feminino,2,6.9,73.3%,Não,0,3963,Rural
+15,Masculino,1,6.5,96.4%,Sim,0,4538,Urbana
+18,Feminino,2,8.8,87.9%,Não,Falta de Apoio Familiar,1614,Urbana
+16,Masculino,2,8.1,64.8%,Não,0,1338,Urbana
+15,Masculino,1,8.6,67.2%,Sim,0,1488,Rural
+15,Masculino,2,9.1,97.7%,Sim,0,2787,Urbana
+19,Masculino,3,6.8,79.4%,Sim,0,3704,Rural
+17,Masculino,1,8.3,73.8%,Não,0,3263,Urbana
+16,Masculino,3,7.8,71.2%,Não,0,2866,Rural
+14,Masculino,1,9.0,68.1%,Sim,0,4150,Rural
+18,Feminino,3,9.2,92.0%,Não,Problemas de Saúde,2616,Urbana
+18,Feminino,3,6.5,78.5%,Não,0,4891,Urbana
+19,Masculino,1,5.0,85.3%,Sim,0,1705,Rural
+18,Feminino,1,7.1,97.9%,Não,Problemas de Saúde,1153,Urbana
+15,Masculino,1,9.0,50.9%,Não,0,869,Rural
+19,Masculino,3,6.0,54.2%,Não,0,958,Rural
+19,Masculino,1,7.2,98.2%,Não,0,1215,Urbana
+14,Feminino,1,5.0,72.7%,Sim,0,2630,Urbana
+19,Feminino,3,9.9,79.8%,Sim,Falta de Apoio Familiar,1200,Urbana
+14,Masculino,2,9.1,71.0%,Sim,0,4307,Rural
+17,Masculino,3,8.4,74.2%,Não,0,3633,Rural
+14,Feminino,3,7.3,97.7%,Não,Outros,4778,Rural
+14,Masculino,1,8.3,91.6%,Sim,0,2722,Urbana
+17,Feminino,1,8.6,76.3%,Sim,0,1820,Urbana
+14,Masculino,1,6.4,80.0%,Não,0,931,Urbana
+18,Masculino,1,7.0,67.2%,Não,0,4837,Rural
+17,Feminino,1,5.5,65.2%,Não,Problemas Familiares,2712,Urbana
+17,Masculino,3,6.0,75.8%,Não,0,3248,Rural
+19,Feminino,1,5.2,52.3%,Sim,0,906,Urbana
+18,Masculino,1,7.9,86.3%,Não,0,3323,Urbana
+14,Masculino,3,9.9,55.6%,Não,0,2390,Urbana
+16,Masculino,1,7.0,98.7%,Não,0,3766,Urbana
+15,Feminino,3,8.0,79.3%,Sim,0,4741,Urbana
+14,Feminino,3,5.1,79.5%,Não,0,837,Rural
+19,Feminino,1,5.8,97.7%,Não,Outros,1727,Rural
+18,Feminino,1,5.2,50.9%,Não,Problemas Familiares,4864,Urbana
+16,Feminino,2,9.3,64.0%,Não,Problemas Financeiros,1534,Urbana
+18,Feminino,2,9.7,60.9%,Sim,0,2957,Rural
+19,Masculino,1,9.4,51.7%,Não,0,4137,Rural
+14,Masculino,2,8.8,87.4%,Sim,0,2438,Urbana
+18,Masculino,2,8.1,78.6%,Sim,0,4022,Rural
+18,Masculino,3,6.7,81.0%,Não,0,1147,Urbana
+19,Masculino,1,7.9,72.4%,Sim,0,3133,Rural
+17,Feminino,2,9.1,60.7%,Não,0,1080,Rural
+15,Feminino,2,7.4,91.7%,Sim,0,2246,Urbana
+18,Masculino,1,8.9,70.3%,Não,0,1585,Rural
+18,Masculino,2,6.1,65.8%,Sim,0,4006,Rural
+15,Masculino,2,5.5,74.6%,Sim,0,3022,Rural
+14,Feminino,3,5.2,54.6%,Sim,Problemas de Saúde,4411,Rural
+16,Masculino,2,8.1,89.6%,Não,0,1154,Rural
+15,Masculino,2,5.6,66.0%,Sim,0,4290,Urbana
+18,Masculino,1,7.0,79.2%,Sim,0,999,Rural
+18,Masculino,1,5.6,51.5%,Sim,0,4211,Rural
+14,Masculino,2,7.2,64.4%,Não,0,4838,Urbana
+14,Masculino,2,9.3,55.2%,Não,0,1232,Rural
+19,Masculino,2,8.4,54.6%,Não,Falta de Apoio Familiar,3520,Rural
+17,Feminino,1,7.8,58.6%,Sim,0,1687,Rural
+19,Masculino,1,7.2,69.9%,Sim,0,3690,Urbana
+18,Feminino,3,5.7,52.6%,Sim,0,2941,Rural
+16,Masculino,3,7.6,73.5%,Sim,0,3721,Rural
+18,Feminino,2,9.9,69.8%,Não,Problemas de Saúde,3504,Urbana
+16,Feminino,3,9.1,89.1%,Não,0,811,Urbana
+14,Masculino,2,7.4,67.1%,Não,0,2812,Urbana
+18,Feminino,1,9.5,71.3%,Não,0,2518,Rural
+14,Masculino,3,8.5,58.2%,Não,Problemas Financeiros,921,Urbana
+16,Feminino,2,6.9,66.8%,Sim,Falta de Apoio Familiar,3395,Urbana
+18,Feminino,2,5.6,79.0%,Não,0,3839,Urbana
+14,Masculino,3,6.9,65.4%,Sim,0,2446,Urbana
+16,Masculino,3,9.2,56.0%,Não,0,1282,Rural
+14,Masculino,2,6.1,97.4%,Sim,0,998,Urbana
+15,Masculino,1,9.6,52.0%,Sim,0,1305,Rural
+19,Masculino,3,6.2,95.1%,Sim,0,4594,Urbana
+15,Feminino,1,8.9,89.1%,Sim,0,3950,Urbana
+17,Feminino,2,8.5,87.7%,Sim,Falta de Interesse,4876,Urbana
+18,Masculino,2,8.0,71.3%,Não,0,4111,Urbana
+14,Feminino,2,7.5,88.9%,Não,0,2435,Rural
+16,Masculino,3,8.4,62.7%,Não,0,4539,Rural
+18,Masculino,3,9.1,66.2%,Não,0,3915,Urbana
+18,Masculino,1,6.2,85.0%,Sim,0,1580,Urbana
+15,Feminino,2,7.0,86.5%,Sim,0,4174,Urbana
+19,Masculino,1,5.3,83.0%,Sim,0,3871,Urbana
+16,Masculino,2,8.6,74.0%,Sim,0,1900,Rural
+16,Feminino,1,9.9,51.7%,Não,Problemas de Saúde,3481,Rural
+16,Feminino,1,8.9,71.2%,Não,Problemas Familiares,2037,Rural
+17,Masculino,1,9.8,82.3%,Não,0,1674,Urbana
+18,Feminino,2,5.6,89.2%,Sim,0,3918,Urbana
+14,Feminino,1,6.8,82.3%,Não,0,4828,Rural
+14,Masculino,3,9.6,88.7%,Sim,Falta de Apoio Familiar,1864,Rural
+19,Feminino,3,7.5,97.0%,Não,Problemas Familiares,1713,Rural
+14,Feminino,1,5.2,52.7%,Sim,Problemas Familiares,3667,Urbana
+15,Masculino,3,9.5,63.5%,Não,0,2425,Urbana
+18,Feminino,2,9.4,77.5%,Sim,Problemas Familiares,3811,Rural
+15,Masculino,2,8.6,73.7%,Sim,0,3092,Rural
+18,Masculino,2,7.2,55.1%,Sim,Falta de Interesse,1412,Urbana
+17,Masculino,1,5.7,91.5%,Sim,0,1022,Urbana
+15,Feminino,3,8.6,94.1%,Sim,Outros,3229,Urbana
+18,Masculino,1,7.4,99.0%,Sim,0,1585,Urbana
+15,Masculino,3,8.7,79.3%,Sim,0,4388,Urbana
+19,Feminino,2,7.8,94.1%,Sim,0,1469,Urbana
+18,Feminino,3,6.6,80.7%,Não,0,1153,Rural
+18,Masculino,3,8.8,82.3%,Sim,0,4567,Urbana
+18,Feminino,1,9.7,58.5%,Sim,0,4411,Rural
+15,Masculino,1,8.7,96.9%,Sim,0,2727,Urbana
+18,Feminino,1,6.3,95.0%,Não,0,2018,Rural
+19,Masculino,1,8.6,88.3%,Não,0,1681,Urbana
+18,Masculino,1,5.5,53.0%,Sim,0,3549,Rural
+14,Feminino,2,7.0,63.9%,Não,0,3841,Urbana
+17,Masculino,3,8.1,53.9%,Não,0,3902,Urbana
+15,Feminino,3,6.0,73.1%,Sim,Falta de Interesse,3979,Urbana
+16,Feminino,2,6.3,69.3%,Não,0,4819,Rural
+15,Masculino,3,7.7,99.0%,Sim,0,2237,Urbana
+18,Masculino,2,6.5,69.4%,Não,0,1241,Rural
+18,Masculino,2,9.5,62.0%,Não,0,4586,Urbana
+19,Feminino,1,8.6,60.4%,Sim,0,3878,Urbana
+16,Masculino,1,8.3,65.8%,Sim,0,1821,Rural
+14,Masculino,1,9.2,91.7%,Não,0,3663,Rural
+14,Masculino,1,9.7,70.5%,Não,0,4099,Urbana
+19,Masculino,2,9.0,67.9%,Sim,0,2571,Urbana
+19,Masculino,2,5.8,54.5%,Não,0,3836,Rural
+16,Feminino,1,5.3,62.5%,Sim,0,3673,Urbana
+16,Feminino,2,5.5,66.3%,Sim,Problemas Familiares,4957,Rural
+17,Masculino,2,8.9,79.8%,Não,Problemas Financeiros,2539,Rural
+14,Masculino,2,5.2,77.0%,Não,0,4061,Urbana
+16,Masculino,3,7.0,92.4%,Não,Problemas Familiares,4653,Urbana
+18,Masculino,3,6.3,80.6%,Sim,0,1079,Rural
+19,Masculino,3,7.0,68.1%,Não,Outros,4065,Rural
+18,Masculino,3,7.1,73.5%,Sim,0,2498,Urbana
+15,Feminino,1,7.5,97.1%,Sim,0,4038,Urbana
+19,Feminino,1,8.8,63.5%,Não,0,2781,Rural
+15,Masculino,2,8.3,85.2%,Não,Falta de Interesse,2312,Urbana
+17,Feminino,2,7.8,93.9%,Não,Falta de Interesse,4329,Rural
+19,Masculino,3,7.2,77.6%,Sim,0,1138,Urbana
+19,Feminino,1,6.3,67.8%,Não,0,2471,Rural
+19,Feminino,1,9.3,80.8%,Não,0,2792,Urbana
+18,Feminino,2,6.3,86.9%,Não,0,2733,Urbana
+19,Feminino,1,5.7,98.9%,Sim,Problemas Financeiros,1675,Rural
+18,Masculino,2,7.4,99.5%,Sim,0,3451,Urbana
+16,Masculino,1,7.0,67.1%,Sim,0,3672,Rural
+14,Masculino,2,6.3,69.4%,Sim,0,1770,Urbana
+15,Masculino,1,6.8,94.5%,Não,0,1824,Rural
+16,Masculino,1,8.2,66.0%,Não,0,2500,Rural
+14,Feminino,2,6.2,60.5%,Sim,Problemas Familiares,2570,Urbana
+15,Masculino,2,7.7,67.4%,Sim,0,3314,Urbana
+14,Masculino,2,9.9,95.2%,Não,0,1856,Rural
+15,Feminino,3,8.7,67.6%,Não,0,1805,Urbana
+18,Feminino,1,5.7,70.3%,Não,0,1094,Urbana
+16,Feminino,1,8.7,73.4%,Sim,Problemas de Saúde,803,Rural
+14,Feminino,1,6.9,99.1%,Sim,Falta de Interesse,2858,Rural
+17,Masculino,2,6.5,59.9%,Não,Falta de Apoio Escolar,2985,Urbana
+15,Masculino,3,8.4,98.2%,Sim,0,4927,Urbana
+15,Masculino,2,5.3,93.0%,Não,0,4303,Rural
+14,Feminino,3,6.2,61.5%,Não,Problemas Financeiros,4386,Urbana
+18,Masculino,2,9.0,55.3%,Não,0,4877,Rural
+16,Feminino,1,7.1,94.0%,Sim,Falta de Apoio Escolar,2778,Urbana
+14,Feminino,3,7.7,53.6%,Sim,0,2827,Urbana
+17,Feminino,2,9.3,80.7%,Não,Falta de Apoio Escolar,4838,Urbana
+19,Feminino,1,8.5,98.0%,Sim,Problemas de Saúde,2149,Urbana
+17,Masculino,3,9.2,84.0%,Não,0,1104,Urbana
+14,Masculino,2,8.3,77.3%,Não,0,2205,Urbana
+15,Masculino,2,6.8,62.0%,Sim,0,4939,Rural
+14,Masculino,3,7.2,91.6%,Não,Problemas Familiares,4930,Urbana
+17,Feminino,3,7.0,64.8%,Não,0,2557,Urbana
+18,Masculino,1,8.0,90.8%,Não,0,3295,Urbana
+17,Masculino,2,7.5,73.2%,Sim,0,2983,Urbana
+16,Masculino,3,8.3,58.8%,Não,0,3299,Urbana
+14,Masculino,2,9.7,50.2%,Não,0,2891,Urbana
+14,Masculino,1,6.4,71.7%,Sim,0,4746,Rural
+17,Masculino,1,9.9,88.2%,Sim,0,3519,Rural
+16,Masculino,2,7.2,81.5%,Sim,0,2922,Urbana
+19,Feminino,1,5.8,73.5%,Sim,0,3555,Urbana
+18,Masculino,1,8.0,73.8%,Não,0,1743,Urbana
+14,Masculino,1,5.8,76.7%,Sim,0,854,Urbana
+14,Masculino,3,9.5,89.3%,Sim,0,1346,Urbana
+15,Feminino,2,7.5,89.7%,Não,0,4307,Urbana
+18,Feminino,2,7.9,83.9%,Sim,0,3397,Rural
+18,Masculino,3,6.4,83.5%,Não,0,1439,Rural
+19,Feminino,2,6.5,86.5%,Não,Problemas de Saúde,3241,Urbana
+18,Masculino,1,8.0,87.2%,Sim,0,1716,Rural
+19,Feminino,3,7.3,80.4%,Não,Falta de Apoio Familiar,4364,Urbana
+16,Masculino,3,6.7,62.1%,Não,0,3951,Rural
+16,Masculino,2,6.8,82.9%,Sim,0,1681,Urbana
+17,Feminino,1,7.6,59.0%,Sim,Outros,3019,Rural
+14,Masculino,1,6.4,97.5%,Sim,0,3324,Urbana
+14,Feminino,1,9.6,95.8%,Sim,0,4585,Urbana
+19,Feminino,3,8.8,92.8%,Não,0,4580,Urbana
+16,Feminino,1,7.0,85.0%,Sim,0,4963,Urbana
+19,Masculino,3,9.3,76.1%,Sim,Falta de Interesse,1022,Rural
+15,Masculino,2,8.3,91.9%,Sim,0,3780,Urbana
+17,Feminino,3,5.3,65.0%,Não,Problemas Familiares,3680,Urbana
+17,Feminino,3,5.1,53.8%,Sim,0,4865,Urbana
+14,Masculino,3,6.1,62.1%,Não,0,4071,Urbana
+15,Feminino,2,5.9,75.2%,Sim,Falta de Apoio Escolar,2873,Rural
+16,Feminino,2,6.8,67.7%,Sim,0,2940,Rural
+19,Masculino,1,9.8,86.8%,Sim,0,1387,Urbana
+15,Feminino,1,6.1,88.7%,Sim,0,2825,Rural
+17,Masculino,1,8.2,82.0%,Não,Outros,3991,Rural
+15,Masculino,1,9.3,90.0%,Não,0,887,Rural
+19,Feminino,3,6.4,78.4%,Não,Falta de Interesse,4504,Rural
+14,Masculino,3,7.6,50.9%,Sim,0,3904,Urbana
+17,Masculino,3,5.5,59.6%,Sim,0,3322,Urbana
+17,Masculino,1,7.9,98.8%,Sim,0,4343,Urbana
+16,Masculino,1,7.2,53.5%,Não,0,986,Rural
+18,Feminino,1,9.2,67.4%,Não,Falta de Apoio Familiar,2953,Urbana
+18,Feminino,1,6.6,66.4%,Não,0,1561,Urbana
+17,Feminino,2,8.0,62.9%,Não,0,4890,Urbana
+18,Feminino,3,6.3,85.5%,Não,0,3889,Urbana
+19,Feminino,2,9.0,57.2%,Sim,Problemas Familiares,3056,Urbana
+16,Feminino,3,7.6,66.9%,Não,Problemas Financeiros,3156,Urbana
+17,Masculino,3,9.9,91.1%,Sim,Problemas Familiares,2272,Urbana
+16,Masculino,1,7.3,91.6%,Sim,0,2428,Urbana
+19,Masculino,1,8.5,68.0%,Sim,Problemas de Saúde,3986,Urbana
+19,Masculino,1,6.9,74.9%,Não,0,4969,Urbana
+14,Masculino,1,5.4,59.4%,Sim,0,1184,Urbana
+17,Masculino,1,7.9,73.3%,Sim,0,3092,Urbana
+16,Feminino,2,6.0,67.8%,Sim,Falta de Apoio Familiar,1344,Rural
+18,Feminino,2,6.4,64.0%,Não,0,3944,Rural
+17,Feminino,2,7.6,62.4%,Sim,0,1174,Rural
+16,Masculino,3,9.2,93.9%,Sim,0,4274,Rural
+18,Masculino,1,5.3,62.4%,Não,0,2108,Urbana
+18,Masculino,3,7.4,74.9%,Não,Falta de Interesse,2118,Rural
+18,Masculino,3,6.4,59.4%,Sim,0,3299,Urbana
+17,Feminino,3,6.9,98.2%,Sim,Falta de Apoio Familiar,1489,Rural
+18,Feminino,1,6.0,78.8%,Sim,Problemas Financeiros,1674,Rural
+19,Feminino,3,6.2,78.8%,Não,0,1772,Rural
+14,Masculino,2,5.7,64.7%,Não,Problemas de Saúde,1922,Urbana
+18,Feminino,2,7.9,54.2%,Não,Problemas de Saúde,1314,Rural
+18,Feminino,2,8.7,73.5%,Sim,0,2631,Rural
+17,Masculino,1,5.7,88.2%,Sim,0,2668,Rural
+14,Masculino,3,5.6,88.1%,Não,0,4238,Rural
+18,Masculino,3,8.0,63.7%,Não,0,1324,Rural
+18,Feminino,2,7.2,88.6%,Sim,Falta de Interesse,1537,Urbana
+17,Masculino,2,9.4,69.8%,Sim,0,3181,Rural
+16,Masculino,2,6.7,53.5%,Não,Outros,4907,Rural
+17,Feminino,3,9.9,77.6%,Sim,0,1335,Rural
+16,Masculino,2,9.0,82.5%,Sim,0,1857,Rural
+14,Masculino,3,6.3,74.6%,Não,0,4748,Rural
+17,Masculino,1,5.3,94.4%,Não,0,4285,Rural
+19,Masculino,1,6.6,55.9%,Não,Falta de Interesse,4804,Rural
+16,Masculino,3,9.4,52.6%,Sim,0,2093,Urbana
+14,Feminino,2,7.7,85.0%,Sim,0,4227,Urbana
+17,Feminino,2,7.7,94.1%,Sim,Falta de Apoio Escolar,4529,Urbana
+16,Feminino,2,7.6,73.5%,Não,0,1514,Urbana
+15,Masculino,2,6.3,52.2%,Sim,0,2711,Urbana
+18,Masculino,1,6.7,84.4%,Não,Problemas Familiares,2825,Urbana
+15,Feminino,3,5.2,85.2%,Não,0,3516,Urbana
+14,Masculino,3,8.8,87.7%,Sim,0,4586,Urbana
+18,Feminino,1,9.5,96.9%,Não,0,2407,Urbana
+15,Masculino,1,9.9,94.6%,Sim,0,2045,Urbana
+15,Feminino,3,8.6,65.4%,Sim,0,4366,Urbana
+14,Masculino,3,6.2,63.6%,Não,0,1108,Rural
+14,Masculino,3,9.7,66.7%,Sim,0,3020,Rural
+17,Masculino,1,7.9,59.6%,Sim,0,4683,Urbana
+17,Feminino,2,8.5,96.1%,Não,Falta de Apoio Familiar,1561,Rural
+14,Masculino,3,6.9,69.7%,Sim,0,3120,Rural
+15,Masculino,2,5.3,75.0%,Sim,0,2971,Rural
+15,Masculino,2,7.6,52.4%,Sim,0,4175,Urbana
+19,Masculino,3,5.1,96.4%,Sim,0,1540,Rural
+14,Feminino,3,6.4,80.9%,Sim,Outros,1494,Urbana
+14,Masculino,3,7.0,74.7%,Não,0,4871,Rural
+19,Feminino,3,6.9,83.3%,Sim,0,1297,Rural
+19,Feminino,2,8.4,66.7%,Sim,0,2266,Rural
+17,Masculino,3,6.5,71.6%,Sim,0,4656,Urbana
+18,Feminino,1,5.8,82.9%,Não,0,1411,Urbana
+19,Feminino,2,9.2,76.9%,Sim,Problemas Familiares,3168,Urbana
+15,Masculino,1,5.2,62.4%,Sim,0,2937,Urbana
+14,Feminino,3,5.8,89.8%,Não,0,1255,Urbana
+15,Feminino,2,7.8,60.4%,Não,Problemas Financeiros,1112,Rural
+16,Masculino,1,9.0,87.6%,Não,0,907,Urbana
+17,Masculino,2,5.0,92.3%,Sim,0,4241,Rural
+15,Masculino,1,7.6,61.5%,Não,0,1146,Rural
+14,Masculino,2,6.3,98.9%,Não,0,934,Urbana
+17,Masculino,1,5.5,93.6%,Não,0,3570,Urbana
+16,Feminino,1,7.2,78.1%,Sim,Falta de Apoio Familiar,1447,Urbana
+17,Feminino,2,7.3,58.6%,Não,Falta de Apoio Familiar,2475,Rural
+18,Feminino,1,6.6,59.1%,Não,0,3896,Urbana
+17,Feminino,2,5.9,73.4%,Sim,0,4987,Urbana
+16,Feminino,1,6.6,80.2%,Não,Falta de Apoio Escolar,2385,Urbana
+18,Masculino,3,7.1,79.8%,Não,0,2511,Urbana
+16,Masculino,2,9.0,57.4%,Sim,0,977,Rural
+17,Masculino,1,6.9,52.8%,Não,0,3565,Rural
+19,Masculino,1,7.8,63.9%,Não,0,1445,Urbana
+19,Masculino,2,7.6,96.4%,Sim,0,4300,Rural
+14,Feminino,1,5.3,71.6%,Sim,0,3622,Urbana
+17,Masculino,2,7.4,92.3%,Sim,0,4741,Rural
+15,Feminino,2,8.2,78.7%,Sim,0,4044,Urbana
+17,Feminino,2,8.4,60.3%,Não,Problemas Financeiros,3262,Rural
+15,Masculino,3,5.7,95.1%,Não,0,2577,Urbana
+19,Feminino,2,9.3,72.4%,Não,0,2837,Urbana
+18,Feminino,3,6.6,60.4%,Sim,Problemas Financeiros,1265,Urbana
+17,Masculino,3,9.2,84.5%,Sim,0,4677,Rural
+15,Masculino,3,8.8,82.4%,Não,0,4482,Urbana
+18,Feminino,2,7.6,53.5%,Não,Falta de Apoio Familiar,1095,Urbana
+17,Feminino,3,6.0,89.5%,Sim,Problemas Financeiros,3224,Rural
+14,Feminino,1,7.1,72.8%,Sim,Falta de Interesse,4431,Rural
+16,Masculino,3,6.6,83.6%,Não,0,2754,Rural
+15,Masculino,2,7.3,76.9%,Não,0,3632,Rural
+15,Feminino,3,8.9,59.2%,Não,0,1830,Rural
+14,Feminino,3,6.6,80.8%,Não,0,1181,Rural
+17,Feminino,1,5.8,73.6%,Não,Problemas Familiares,2315,Rural
+17,Feminino,3,6.3,70.8%,Sim,0,821,Rural
+18,Masculino,1,8.8,69.8%,Não,0,3404,Rural
+14,Masculino,1,9.0,71.1%,Não,0,4009,Rural
+16,Feminino,3,5.2,82.4%,Sim,0,3458,Rural
+17,Masculino,1,6.0,50.0%,Sim,0,3062,Urbana
+19,Masculino,2,8.7,53.6%,Sim,0,1459,Urbana
+16,Masculino,3,6.3,52.6%,Sim,0,1043,Rural
+18,Feminino,1,5.7,62.4%,Não,Falta de Apoio Escolar,2910,Rural
+15,Feminino,1,7.2,98.3%,Sim,Falta de Interesse,1653,Rural
+16,Feminino,2,6.8,80.3%,Sim,0,3126,Urbana
+18,Masculino,1,6.8,71.3%,Sim,0,3397,Rural
+14,Feminino,2,6.0,82.1%,Não,0,2992,Urbana
+17,Masculino,3,5.7,61.1%,Não,0,3495,Rural
+16,Masculino,3,9.3,84.7%,Sim,0,4178,Urbana
+17,Feminino,2,9.0,87.3%,Sim,Outros,4302,Urbana
+17,Masculino,2,5.1,56.3%,Não,0,825,Urbana
+19,Feminino,1,7.2,76.4%,Não,Falta de Apoio Familiar,3579,Urbana
+15,Masculino,2,9.3,66.0%,Sim,0,4015,Urbana
+18,Masculino,3,8.8,83.1%,Sim,0,3093,Rural
+16,Feminino,1,7.7,97.3%,Não,Problemas de Saúde,3217,Urbana
+14,Feminino,3,9.0,65.8%,Não,Outros,837,Rural
+15,Masculino,3,9.0,96.8%,Sim,0,866,Urbana
+14,Masculino,2,5.4,76.3%,Sim,0,4921,Urbana
+17,Masculino,2,5.1,70.8%,Não,0,2180,Urbana
+15,Feminino,2,9.5,96.2%,Sim,0,2154,Rural
+14,Masculino,3,6.8,84.3%,Não,0,4105,Urbana
+19,Masculino,2,8.3,53.8%,Sim,Falta de Interesse,2691,Rural
+18,Masculino,2,5.1,86.4%,Não,0,2684,Rural
+15,Masculino,3,5.6,75.4%,Não,0,3003,Rural
+14,Feminino,1,8.2,77.9%,Sim,0,3315,Rural
+18,Masculino,3,7.8,66.4%,Não,0,3879,Urbana
+15,Masculino,3,7.7,66.5%,Sim,0,1232,Urbana
+18,Feminino,2,8.2,98.2%,Sim,0,4869,Rural
+17,Masculino,2,7.8,86.3%,Não,0,4892,Rural
+17,Feminino,3,9.5,56.0%,Não,0,4366,Rural
+19,Masculino,1,5.0,67.6%,Sim,0,3435,Urbana
+18,Feminino,2,9.6,82.6%,Não,0,1283,Urbana
+18,Feminino,3,8.4,80.8%,Sim,Outros,4884,Urbana
+14,Feminino,3,6.7,52.6%,Sim,0,3201,Rural
+14,Feminino,3,6.5,88.9%,Não,0,4548,Rural
+16,Feminino,2,6.8,69.8%,Não,0,1877,Urbana
+19,Masculino,2,8.4,88.5%,Sim,0,3053,Rural
+17,Feminino,1,6.1,93.4%,Sim,Falta de Interesse,2357,Urbana
+18,Masculino,1,9.5,76.8%,Não,0,3059,Urbana
+17,Feminino,3,7.6,51.9%,Sim,Falta de Interesse,929,Urbana
+16,Feminino,1,8.5,85.2%,Não,Falta de Apoio Familiar,1126,Urbana
+19,Feminino,2,6.8,84.7%,Sim,0,4317,Urbana
+15,Feminino,1,8.4,74.6%,Não,0,3764,Rural
+15,Masculino,1,9.4,53.0%,Não,Problemas Financeiros,4086,Rural
+17,Masculino,2,9.5,86.3%,Sim,Falta de Interesse,3617,Urbana
+15,Masculino,2,8.0,65.8%,Não,0,2967,Urbana
+18,Masculino,2,8.3,93.9%,Não,0,4989,Rural
+14,Masculino,2,7.5,62.8%,Não,0,3364,Rural
+16,Masculino,1,8.1,93.8%,Sim,0,1432,Urbana
+14,Masculino,1,9.8,87.2%,Não,0,4101,Rural
+15,Masculino,1,7.0,53.2%,Não,0,3461,Rural
+15,Feminino,2,5.6,71.5%,Não,0,857,Urbana
+14,Feminino,1,7.0,80.2%,Sim,Falta de Apoio Escolar,2771,Rural
+19,Masculino,3,9.3,54.5%,Sim,0,4504,Rural
+14,Masculino,1,8.5,63.9%,Sim,0,1566,Urbana
+14,Feminino,3,6.5,64.6%,Sim,0,1949,Urbana
+15,Feminino,1,5.9,75.0%,Não,0,811,Rural
+18,Feminino,2,9.9,67.3%,Não,Problemas Familiares,3386,Rural
+15,Masculino,1,8.5,66.8%,Sim,0,876,Urbana
+19,Masculino,1,6.6,77.8%,Não,0,2178,Urbana
+14,Feminino,2,7.7,59.5%,Não,Problemas Familiares,871,Urbana
+14,Masculino,3,8.7,59.8%,Não,0,1313,Rural
+19,Masculino,3,6.5,82.9%,Não,0,2900,Rural
+17,Masculino,2,5.7,79.2%,Sim,0,4017,Rural
+14,Masculino,3,8.0,58.6%,Não,0,4825,Rural
+14,Masculino,3,8.4,70.6%,Não,0,1492,Urbana
+16,Feminino,3,5.8,75.4%,Sim,Problemas de Saúde,2950,Urbana
+17,Feminino,1,6.2,75.6%,Sim,0,3788,Rural
+15,Feminino,1,6.8,86.8%,Sim,Problemas Financeiros,4237,Urbana
+15,Feminino,3,9.0,56.3%,Não,0,1329,Rural
+15,Masculino,2,8.9,71.2%,Sim,Falta de Apoio Escolar,4454,Rural
+14,Masculino,1,8.6,55.1%,Sim,Outros,3708,Urbana
+19,Feminino,2,9.5,76.6%,Não,0,4114,Urbana
+16,Masculino,1,8.9,96.3%,Não,0,2114,Rural
+16,Masculino,2,9.3,96.8%,Não,0,2388,Urbana
+18,Feminino,3,6.9,92.6%,Sim,Problemas Familiares,2720,Rural
+14,Feminino,3,9.2,98.4%,Não,0,4135,Rural
+19,Masculino,1,9.3,59.2%,Não,0,1418,Rural
+17,Masculino,2,7.1,77.6%,Sim,0,4412,Rural
+19,Masculino,3,7.7,76.0%,Sim,Problemas Familiares,4720,Rural
+19,Masculino,1,6.8,66.0%,Sim,0,4459,Rural
+17,Feminino,2,5.1,75.7%,Não,0,3660,Urbana
+18,Masculino,3,8.4,87.3%,Sim,Problemas de Saúde,970,Rural
+17,Feminino,2,7.4,93.4%,Não,Falta de Apoio Familiar,1131,Urbana
+15,Masculino,3,8.2,82.5%,Sim,0,1854,Rural
+16,Feminino,3,9.1,52.1%,Não,0,838,Rural
+19,Masculino,3,9.2,91.6%,Não,0,1609,Rural
+15,Feminino,1,8.9,93.6%,Não,0,2519,Urbana
+18,Masculino,1,8.8,65.0%,Não,Outros,4137,Urbana
+19,Masculino,2,7.0,62.3%,Não,Falta de Apoio Escolar,1827,Urbana
+17,Masculino,2,5.5,87.3%,Sim,0,4275,Rural
+15,Masculino,3,6.2,94.5%,Sim,0,1088,Urbana
+14,Masculino,1,6.2,61.9%,Não,0,1573,Urbana
+14,Feminino,2,9.0,76.7%,Sim,Problemas Familiares,2478,Urbana
+16,Masculino,1,7.7,51.3%,Não,0,4848,Rural
+14,Masculino,1,5.9,55.1%,Sim,0,3660,Urbana
+16,Masculino,1,8.0,96.1%,Não,0,3318,Rural
+15,Masculino,3,9.3,77.2%,Sim,Falta de Apoio Escolar,3845,Rural
+16,Feminino,3,5.7,88.0%,Sim,Problemas Familiares,3124,Urbana
+19,Feminino,1,6.7,67.1%,Sim,0,4129,Urbana
+18,Feminino,2,7.5,81.7%,Sim,0,3731,Urbana
+14,Masculino,1,6.1,83.6%,Sim,0,1250,Rural
+15,Feminino,3,8.4,98.1%,Sim,0,3615,Urbana
+16,Masculino,1,9.5,75.0%,Sim,0,4474,Urbana
+18,Feminino,2,5.1,55.4%,Sim,Problemas Financeiros,2254,Rural
+19,Feminino,2,6.6,96.9%,Não,Problemas Familiares,1132,Rural
+16,Feminino,1,6.9,53.3%,Sim,Outros,1212,Urbana
+19,Masculino,2,7.3,56.9%,Não,0,4469,Urbana
+14,Masculino,1,9.6,83.1%,Sim,0,2390,Urbana
+18,Masculino,3,8.7,53.4%,Sim,0,4582,Rural
+14,Feminino,2,9.7,63.1%,Não,0,3705,Rural
+15,Masculino,1,5.7,92.7%,Não,0,3744,Urbana
+19,Feminino,2,7.2,58.7%,Sim,0,923,Urbana
+19,Feminino,1,6.9,86.0%,Não,Falta de Apoio Familiar,3840,Rural
+15,Feminino,3,5.1,67.3%,Sim,0,975,Rural
+16,Masculino,2,5.3,96.8%,Sim,0,2369,Urbana
+17,Masculino,1,7.0,81.5%,Sim,0,4184,Urbana
+17,Feminino,1,6.8,87.3%,Não,Problemas Familiares,3283,Urbana
+15,Masculino,1,8.8,73.8%,Sim,0,2033,Rural
+16,Masculino,2,7.9,52.1%,Não,0,3118,Urbana
+14,Masculino,1,6.1,78.6%,Não,Outros,3903,Urbana
+19,Feminino,2,7.6,57.7%,Sim,0,1580,Urbana
+15,Masculino,2,5.4,77.6%,Não,Problemas Familiares,2451,Rural
+15,Feminino,2,6.9,62.3%,Sim,Problemas Financeiros,1207,Urbana
+17,Feminino,3,7.0,91.8%,Não,0,2679,Rural
+17,Masculino,2,9.8,94.5%,Não,Outros,4205,Rural
+19,Feminino,2,6.1,76.2%,Sim,0,4747,Rural
+14,Feminino,2,7.9,95.1%,Sim,0,956,Urbana
+14,Feminino,1,9.1,79.3%,Sim,Falta de Apoio Escolar,4365,Rural
+19,Masculino,3,6.5,75.4%,Não,0,4507,Rural
+19,Feminino,3,9.9,64.0%,Não,0,2449,Urbana
+17,Feminino,2,8.6,73.8%,Sim,0,3125,Urbana
+14,Masculino,2,7.1,55.5%,Sim,0,3331,Rural
+16,Masculino,3,6.5,58.7%,Não,0,2021,Urbana
+19,Feminino,3,9.3,83.5%,Sim,0,822,Urbana
+18,Feminino,1,5.2,75.8%,Sim,0,826,Rural
+14,Masculino,3,6.6,69.3%,Não,0,2760,Urbana
+18,Masculino,3,8.4,73.7%,Sim,0,2118,Rural
+15,Masculino,2,9.8,67.6%,Não,0,1042,Rural
+15,Masculino,1,7.8,54.0%,Sim,0,2627,Rural
+16,Masculino,1,9.9,61.8%,Não,0,3629,Rural
+16,Feminino,1,7.7,54.0%,Não,0,2801,Urbana
+18,Feminino,2,8.6,50.4%,Sim,0,858,Rural
+18,Masculino,3,6.8,72.0%,Não,0,1144,Rural
+19,Feminino,3,7.0,92.9%,Não,0,4138,Urbana
+16,Masculino,1,8.5,89.9%,Não,0,1899,Rural
+17,Masculino,2,9.3,51.1%,Sim,0,2561,Rural
+18,Feminino,3,8.6,96.6%,Sim,0,2210,Urbana
+19,Feminino,2,8.2,97.8%,Sim,0,2016,Rural
+18,Feminino,2,8.7,69.2%,Não,0,1306,Rural
+16,Feminino,1,9.0,97.6%,Não,Falta de Interesse,3687,Urbana
+19,Masculino,2,9.7,74.2%,Sim,0,1555,Urbana
+14,Feminino,1,9.0,83.5%,Sim,0,2574,Rural
+19,Masculino,1,5.3,66.9%,Não,0,3724,Rural
+14,Masculino,3,9.4,82.3%,Sim,0,1336,Urbana
+15,Feminino,1,8.2,66.0%,Sim,0,4919,Urbana
+15,Feminino,3,9.5,54.3%,Sim,0,900,Urbana
+15,Masculino,2,8.7,85.4%,Sim,0,1000,Rural
+15,Masculino,3,6.3,95.4%,Não,0,1413,Urbana
+15,Masculino,1,6.2,83.6%,Sim,0,1302,Urbana
+14,Masculino,3,9.6,95.1%,Não,0,3780,Rural
+19,Feminino,1,7.9,58.2%,Não,Falta de Apoio Familiar,2936,Urbana
+18,Masculino,2,6.8,96.1%,Não,0,3934,Rural
+14,Feminino,1,6.7,51.6%,Não,0,933,Rural
+14,Feminino,1,5.4,92.4%,Não,Problemas de Saúde,3362,Rural
+17,Masculino,2,9.9,83.0%,Sim,Falta de Apoio Familiar,3102,Rural
+17,Masculino,1,9.6,79.7%,Não,0,2223,Rural
+18,Masculino,1,6.9,66.6%,Não,Problemas de Saúde,3212,Rural
+14,Masculino,2,5.6,54.7%,Não,0,2093,Rural
+15,Masculino,2,5.6,99.7%,Sim,0,2296,Urbana
+15,Feminino,3,8.4,88.0%,Não,0,2630,Rural
+18,Masculino,1,7.9,79.3%,Sim,0,3534,Rural
+18,Feminino,1,5.2,78.0%,Sim,Falta de Apoio Familiar,1175,Urbana
+14,Feminino,2,5.3,84.6%,Sim,0,3418,Rural
+14,Masculino,1,5.3,60.6%,Não,0,4079,Rural
+16,Feminino,1,8.5,71.0%,Sim,0,1081,Rural
+14,Masculino,2,6.6,73.8%,Sim,0,2181,Urbana
+19,Masculino,2,9.6,97.8%,Não,0,1100,Urbana
+17,Masculino,2,7.3,56.7%,Sim,0,4451,Urbana
+18,Masculino,1,7.8,57.2%,Sim,0,949,Urbana
+15,Feminino,3,7.3,88.9%,Não,0,1639,Urbana
+18,Feminino,3,6.8,65.7%,Sim,0,2366,Urbana
+16,Masculino,1,7.4,83.7%,Sim,0,1308,Rural
+18,Masculino,3,5.8,83.1%,Sim,0,1607,Urbana
+15,Masculino,1,10.0,68.7%,Não,0,3617,Rural
+17,Feminino,3,8.4,54.7%,Sim,0,4824,Rural
+16,Feminino,2,9.6,60.7%,Não,0,862,Urbana
+18,Feminino,1,8.6,79.8%,Não,0,1165,Urbana
+19,Feminino,1,5.3,92.7%,Não,0,2412,Rural
+18,Feminino,1,8.8,79.4%,Não,Problemas Familiares,1085,Rural
+16,Feminino,3,6.1,59.3%,Não,Problemas Financeiros,3464,Urbana
+14,Feminino,1,9.8,98.7%,Não,Outros,4860,Rural
+18,Feminino,3,10.0,81.3%,Não,0,1163,Urbana
+18,Masculino,1,6.8,56.1%,Sim,0,2959,Rural
+18,Masculino,3,5.9,70.7%,Não,0,3024,Urbana
+19,Feminino,3,8.4,53.8%,Não,Outros,4945,Urbana
+18,Masculino,3,9.1,97.7%,Não,0,2516,Urbana
+18,Masculino,3,9.9,97.8%,Sim,0,1793,Urbana
+19,Feminino,1,7.6,57.3%,Sim,Falta de Apoio Escolar,3508,Rural
+14,Feminino,2,6.6,54.2%,Não,Falta de Apoio Familiar,4437,Urbana
+16,Masculino,1,8.7,57.4%,Sim,0,1414,Urbana
+17,Feminino,3,7.3,74.4%,Não,Outros,3897,Rural
+17,Feminino,1,7.5,97.7%,Não,0,3267,Rural
+17,Masculino,2,8.4,59.7%,Não,0,2040,Rural
+18,Feminino,2,8.8,51.6%,Não,0,3968,Urbana
+18,Feminino,3,7.6,76.5%,Não,0,1046,Rural
+14,Masculino,3,8.2,50.7%,Sim,Outros,1301,Rural
+15,Feminino,3,6.0,85.7%,Sim,0,4888,Rural
+19,Feminino,1,6.5,92.5%,Não,Problemas Familiares,1682,Urbana
+17,Feminino,1,9.1,93.9%,Não,Problemas Financeiros,2615,Urbana
+15,Feminino,1,7.7,73.3%,Sim,0,1835,Urbana
+15,Masculino,2,8.8,99.4%,Não,0,1235,Rural
+18,Feminino,2,9.1,51.0%,Sim,0,1490,Rural
+19,Feminino,2,6.8,79.5%,Sim,0,4240,Urbana
+19,Masculino,2,9.2,70.3%,Não,0,3582,Rural
+16,Masculino,2,6.5,92.4%,Não,0,1028,Urbana
+16,Feminino,3,9.8,96.3%,Sim,0,3949,Rural
+19,Feminino,3,7.2,99.8%,Não,Problemas Familiares,3068,Rural
+17,Feminino,1,6.5,52.3%,Sim,Outros,4331,Urbana
+14,Masculino,1,6.7,99.4%,Sim,0,1298,Rural
+17,Masculino,3,7.0,94.8%,Não,0,2575,Rural
+14,Feminino,3,5.6,55.5%,Sim,Falta de Apoio Familiar,4413,Rural
+18,Masculino,3,8.7,70.7%,Não,0,3988,Urbana
+15,Feminino,2,8.8,55.1%,Não,Falta de Interesse,1681,Rural
+15,Masculino,2,6.6,61.6%,Sim,0,4961,Rural
+16,Feminino,3,8.4,78.5%,Não,0,2274,Rural
+17,Masculino,1,9.0,76.0%,Sim,0,4787,Urbana
+14,Masculino,1,6.4,68.7%,Não,0,4531,Urbana
+16,Feminino,2,5.1,93.9%,Sim,0,3628,Urbana
+14,Masculino,1,8.3,98.4%,Sim,0,4065,Urbana
+17,Masculino,1,7.0,54.5%,Sim,0,1483,Rural
+16,Masculino,2,7.0,96.3%,Sim,0,2735,Rural
+16,Masculino,2,5.6,86.1%,Não,0,2435,Urbana
+16,Feminino,2,6.3,77.3%,Não,0,1602,Rural
+17,Feminino,2,8.3,99.2%,Não,Problemas Financeiros,2924,Rural
+19,Feminino,1,9.2,91.4%,Sim,Falta de Interesse,3991,Rural
+19,Feminino,2,9.1,69.4%,Não,Problemas Financeiros,1806,Urbana
+18,Feminino,2,5.9,99.1%,Sim,Falta de Apoio Familiar,1442,Rural
+17,Feminino,3,9.8,86.4%,Não,0,1256,Urbana
+18,Masculino,3,8.5,56.1%,Não,0,1115,Urbana
+16,Masculino,2,6.2,88.1%,Sim,0,3572,Urbana
+16,Feminino,1,7.8,58.5%,Sim,Outros,4498,Urbana
+17,Feminino,1,8.7,99.9%,Não,Problemas de Saúde,4334,Rural
+16,Feminino,3,7.5,54.7%,Sim,Falta de Apoio Familiar,1520,Urbana
+18,Feminino,3,6.2,74.2%,Sim,Problemas de Saúde,2327,Urbana
+17,Masculino,3,9.7,94.3%,Sim,0,2350,Urbana
+18,Masculino,3,9.1,69.3%,Não,0,1840,Urbana
+16,Feminino,1,7.0,88.7%,Sim,Falta de Apoio Familiar,4095,Rural
+14,Masculino,1,7.0,83.8%,Sim,0,2075,Urbana
+16,Feminino,1,6.0,52.7%,Sim,Outros,2891,Rural
+16,Feminino,1,7.9,93.7%,Não,0,1453,Rural
+16,Masculino,1,8.8,81.5%,Sim,0,1588,Rural
+19,Feminino,2,9.9,81.6%,Sim,0,1759,Rural
+19,Feminino,1,6.6,84.8%,Não,0,4372,Rural
+14,Feminino,1,9.2,88.6%,Sim,Falta de Apoio Escolar,3818,Rural
+16,Masculino,3,6.1,96.4%,Sim,0,2912,Rural
+15,Feminino,2,7.7,67.3%,Sim,0,3633,Rural
+15,Feminino,3,7.4,82.7%,Não,Problemas Familiares,3072,Urbana
+18,Feminino,3,7.3,58.6%,Não,0,4191,Urbana
+18,Feminino,1,9.5,93.4%,Sim,0,3987,Urbana
+19,Masculino,3,8.1,67.3%,Sim,0,3653,Rural
+14,Feminino,3,7.0,60.0%,Não,0,2434,Urbana
+17,Masculino,2,5.9,58.2%,Não,0,3582,Rural
+16,Feminino,1,6.1,64.3%,Sim,0,2879,Urbana
+14,Feminino,2,7.4,80.2%,Sim,0,2129,Rural
+17,Feminino,2,5.5,94.7%,Não,Problemas Familiares,3770,Urbana
+14,Masculino,3,6.2,99.2%,Sim,0,2847,Urbana
+18,Feminino,1,8.1,53.0%,Não,Problemas Financeiros,4089,Urbana
+16,Masculino,1,6.1,66.0%,Sim,0,2078,Urbana
+18,Feminino,2,5.3,95.9%,Sim,0,1457,Urbana
+17,Feminino,2,6.0,76.9%,Sim,0,3453,Rural
+19,Masculino,1,5.0,74.0%,Não,0,2190,Urbana
+14,Masculino,3,7.3,66.2%,Não,0,4593,Rural
+15,Masculino,1,6.5,73.9%,Não,0,1156,Rural
+17,Feminino,2,6.4,97.8%,Sim,0,1534,Rural
+19,Masculino,1,9.4,72.1%,Sim,0,1113,Rural
+16,Feminino,3,6.7,57.4%,Sim,Falta de Apoio Familiar,3199,Urbana
+17,Feminino,3,8.6,59.9%,Sim,0,3388,Rural
+19,Masculino,1,6.1,100.0%,Não,0,3351,Urbana
+19,Feminino,2,5.2,73.5%,Sim,Falta de Apoio Familiar,3860,Rural
+16,Feminino,3,8.7,50.4%,Sim,0,881,Urbana
+19,Masculino,1,6.1,57.7%,Sim,0,3088,Urbana
+19,Feminino,2,5.6,64.8%,Sim,Falta de Apoio Familiar,1367,Urbana
+17,Feminino,3,8.6,95.7%,Não,0,3480,Urbana
+15,Feminino,3,9.4,53.7%,Sim,0,2070,Rural
+16,Feminino,1,7.0,62.6%,Sim,0,1647,Rural
+18,Masculino,3,5.2,68.6%,Sim,0,3665,Urbana
+19,Feminino,1,6.0,58.9%,Não,Falta de Apoio Familiar,3024,Urbana
+15,Feminino,2,9.2,79.0%,Sim,Problemas Financeiros,4150,Rural
+14,Feminino,1,8.8,94.4%,Sim,Outros,4166,Rural
+19,Masculino,1,9.7,88.1%,Não,Falta de Apoio Familiar,916,Urbana
+14,Feminino,3,5.2,53.3%,Sim,Problemas de Saúde,3487,Urbana
+19,Feminino,3,7.7,88.3%,Sim,Falta de Apoio Escolar,1094,Urbana
+18,Feminino,3,5.2,54.9%,Sim,0,2954,Urbana
+14,Feminino,1,6.5,87.3%,Sim,Problemas Familiares,1154,Rural
+17,Feminino,2,9.8,79.1%,Sim,0,3655,Urbana
+16,Feminino,3,5.5,78.6%,Sim,Falta de Interesse,3826,Rural
+18,Masculino,3,7.5,62.1%,Não,0,3733,Urbana
+16,Feminino,1,9.8,60.3%,Não,0,1205,Rural
+19,Feminino,1,9.9,94.1%,Não,0,1878,Rural
+14,Masculino,2,9.4,60.4%,Sim,0,2843,Urbana
+17,Feminino,2,9.9,76.4%,Não,Falta de Interesse,4974,Urbana
+15,Feminino,1,5.1,86.5%,Não,0,3018,Rural
+19,Masculino,1,8.8,93.0%,Não,0,1304,Rural
+18,Masculino,1,6.4,78.7%,Não,0,2856,Urbana
+19,Masculino,2,8.0,83.6%,Sim,0,2725,Urbana
+19,Feminino,1,6.3,88.6%,Sim,Falta de Apoio Escolar,2619,Urbana
+19,Feminino,3,6.6,66.9%,Sim,0,2942,Urbana
+18,Feminino,3,9.4,85.1%,Não,0,2597,Rural
+19,Masculino,2,5.4,94.3%,Sim,0,1336,Urbana
+15,Masculino,3,5.6,81.8%,Não,0,1581,Urbana
+15,Masculino,3,5.1,82.9%,Sim,0,3307,Rural
+14,Feminino,3,7.1,55.6%,Sim,0,3379,Rural
+15,Feminino,3,5.2,95.1%,Sim,0,3268,Rural
+17,Feminino,3,9.2,58.2%,Sim,0,3949,Urbana
+16,Masculino,3,7.9,90.6%,Não,0,1287,Rural
+16,Masculino,1,6.7,78.3%,Sim,0,1432,Rural
+16,Masculino,3,8.4,99.3%,Não,Problemas Financeiros,3371,Urbana
+18,Masculino,3,6.2,61.9%,Não,0,3248,Rural
+16,Feminino,1,6.8,76.5%,Sim,0,4990,Urbana
+17,Masculino,1,8.8,63.6%,Não,0,3645,Rural
+18,Masculino,3,9.5,88.4%,Não,0,1604,Urbana
+14,Feminino,2,7.6,84.8%,Sim,0,4108,Rural
+15,Masculino,1,8.1,78.3%,Não,0,2988,Rural
+15,Feminino,1,7.0,92.4%,Sim,0,1150,Urbana
+15,Feminino,1,8.6,65.8%,Sim,Falta de Apoio Familiar,3656,Urbana
+16,Feminino,3,9.5,66.1%,Não,Problemas Familiares,912,Rural
+16,Masculino,3,9.7,88.0%,Não,0,4230,Urbana
+15,Masculino,2,7.1,62.5%,Não,0,3059,Urbana
+18,Feminino,1,6.7,59.8%,Sim,0,1033,Rural
+16,Masculino,3,10.0,93.7%,Sim,0,4612,Urbana
+18,Feminino,2,7.5,74.9%,Sim,Falta de Apoio Familiar,4883,Rural
+19,Masculino,2,6.7,96.6%,Não,0,4132,Rural
+18,Feminino,1,5.9,91.6%,Não,Problemas Familiares,1443,Rural
+15,Masculino,3,8.0,85.8%,Sim,0,2560,Rural
+18,Feminino,3,9.9,99.5%,Sim,Problemas de Saúde,3897,Rural
+15,Feminino,3,9.8,57.3%,Não,0,1498,Rural
+17,Feminino,2,8.5,76.3%,Sim,Problemas Financeiros,1553,Urbana
+18,Feminino,2,7.6,98.9%,Não,0,4467,Rural
+19,Masculino,3,8.8,83.1%,Não,0,3804,Rural
+18,Feminino,1,7.9,75.1%,Não,0,4620,Urbana
+15,Masculino,2,5.9,89.6%,Não,0,1660,Rural
+14,Feminino,2,5.0,54.9%,Não,0,4079,Urbana
+17,Feminino,3,8.5,84.3%,Sim,0,4299,Rural
+17,Masculino,3,9.4,99.7%,Sim,0,908,Urbana
+19,Masculino,3,6.9,85.8%,Não,0,3679,Urbana
+14,Masculino,1,9.9,51.5%,Sim,0,3407,Urbana
+17,Masculino,3,9.7,88.3%,Sim,Falta de Interesse,1830,Rural
+14,Masculino,3,9.9,74.3%,Sim,0,3294,Urbana
+18,Feminino,3,8.9,51.7%,Não,0,1240,Urbana
+14,Masculino,3,7.2,55.1%,Não,0,1641,Rural
+16,Feminino,2,7.3,87.1%,Não,Problemas Financeiros,2896,Rural
+15,Feminino,2,8.4,51.5%,Não,0,1571,Urbana
+15,Feminino,1,7.2,54.7%,Não,Problemas de Saúde,3931,Urbana
+15,Feminino,3,8.5,91.7%,Sim,0,2823,Rural
+19,Masculino,2,7.2,90.5%,Não,0,4725,Rural
+18,Masculino,2,8.3,58.8%,Sim,0,2303,Urbana
+16,Feminino,2,8.0,71.4%,Sim,0,2187,Rural
+15,Feminino,2,6.1,71.9%,Sim,0,2920,Rural
+19,Masculino,1,7.7,80.5%,Não,0,4237,Rural
+16,Masculino,3,5.5,96.9%,Sim,0,1104,Urbana
+19,Feminino,3,5.5,73.6%,Não,0,3542,Urbana
+17,Masculino,2,5.2,81.6%,Não,0,4563,Rural
+19,Masculino,1,8.6,64.6%,Sim,0,2146,Rural
+19,Masculino,2,7.2,54.2%,Não,Outros,4512,Rural
+18,Masculino,1,9.0,62.9%,Não,0,1662,Urbana
+19,Feminino,2,5.8,98.6%,Não,0,2385,Urbana
+15,Masculino,3,5.6,94.2%,Sim,Problemas Familiares,1743,Rural
+18,Feminino,3,6.7,54.3%,Sim,Outros,4251,Rural
+15,Feminino,1,8.6,62.5%,Sim,Problemas Financeiros,1976,Urbana
+18,Masculino,1,7.1,92.1%,Não,Falta de Interesse,2104,Urbana
+14,Masculino,2,9.7,63.6%,Não,0,2313,Rural
+15,Feminino,3,7.0,60.3%,Sim,0,1182,Rural
+15,Feminino,1,9.0,72.9%,Sim,Problemas Financeiros,2278,Urbana
+15,Masculino,1,8.9,61.7%,Não,Problemas Familiares,3167,Rural
+15,Feminino,1,8.4,64.5%,Não,0,2568,Rural
+18,Masculino,1,5.9,78.1%,Sim,0,1591,Rural
+15,Masculino,1,5.8,94.7%,Sim,0,3041,Rural
+19,Masculino,1,7.4,64.3%,Sim,0,3770,Rural
+16,Masculino,2,5.2,69.3%,Não,0,1048,Urbana
+16,Feminino,2,5.8,54.7%,Não,0,3211,Rural
+18,Feminino,2,7.6,70.0%,Não,0,2089,Urbana
+14,Masculino,2,7.4,92.9%,Não,0,4594,Rural
+18,Feminino,3,8.9,92.7%,Não,0,4568,Rural
+19,Masculino,3,5.9,92.9%,Sim,0,905,Rural
+17,Feminino,1,9.3,52.3%,Não,0,3537,Urbana
+16,Masculino,1,5.1,87.6%,Não,Problemas Financeiros,4194,Rural
+18,Masculino,1,6.2,57.6%,Sim,0,4222,Rural
+17,Feminino,1,5.7,56.1%,Não,0,3079,Urbana
+14,Masculino,3,5.1,56.3%,Sim,Falta de Apoio Escolar,3182,Rural
+18,Feminino,1,7.2,90.7%,Não,0,3852,Rural
+16,Feminino,1,5.6,83.2%,Não,Falta de Interesse,3824,Rural
+19,Feminino,3,7.6,70.1%,Sim,0,4785,Rural
+14,Masculino,1,6.5,60.4%,Sim,Falta de Interesse,4335,Urbana
+14,Feminino,3,7.7,55.0%,Não,0,4592,Rural
+17,Feminino,1,8.5,93.3%,Não,0,1584,Rural
+14,Feminino,1,7.8,91.0%,Não,Falta de Interesse,4498,Urbana
+17,Masculino,2,6.8,72.7%,Não,0,2512,Urbana
+18,Feminino,3,9.0,98.3%,Não,0,3637,Urbana
+17,Masculino,3,8.6,80.1%,Sim,0,2361,Rural
+19,Masculino,3,6.1,65.5%,Sim,0,1577,Urbana
+17,Feminino,2,9.4,88.4%,Não,0,3693,Urbana
+15,Masculino,2,8.1,96.4%,Sim,Problemas Financeiros,3746,Urbana
+17,Feminino,2,6.3,67.2%,Não,0,2725,Urbana
+16,Feminino,2,10.0,96.0%,Não,Falta de Apoio Escolar,4045,Urbana
+19,Masculino,1,6.8,90.4%,Sim,0,950,Urbana
+14,Masculino,3,6.3,60.6%,Sim,0,4047,Urbana
+18,Masculino,3,5.2,54.2%,Sim,0,4214,Rural
+17,Feminino,2,8.3,93.8%,Não,0,4294,Rural
+14,Masculino,1,5.6,58.6%,Não,0,4587,Urbana
+14,Masculino,1,5.7,61.7%,Sim,0,4987,Urbana
+18,Feminino,1,8.2,71.5%,Não,0,3305,Urbana
+19,Masculino,3,8.9,66.3%,Não,Falta de Apoio Escolar,3417,Urbana
+19,Masculino,3,6.9,75.4%,Sim,Problemas Familiares,4164,Rural
+18,Feminino,3,7.4,54.0%,Sim,0,1198,Urbana
+15,Masculino,3,6.9,95.8%,Sim,0,4325,Urbana
+17,Masculino,3,8.9,94.2%,Não,0,4181,Urbana
+17,Feminino,2,9.7,71.6%,Sim,0,2345,Rural
+16,Feminino,2,5.5,75.9%,Sim,Falta de Interesse,3711,Urbana
+15,Masculino,3,7.6,96.6%,Sim,0,2046,Urbana
+16,Feminino,2,8.5,94.3%,Não,Outros,3832,Urbana
+17,Masculino,2,9.7,65.9%,Sim,0,849,Urbana
+14,Feminino,3,7.1,56.4%,Sim,0,3600,Rural
+17,Feminino,2,9.5,59.0%,Sim,Outros,1670,Urbana
+14,Masculino,2,6.5,70.9%,Não,0,1625,Urbana
+17,Masculino,2,8.1,69.7%,Sim,0,2230,Rural
+16,Masculino,1,6.7,81.1%,Não,0,3389,Urbana
+14,Masculino,2,7.2,71.2%,Sim,0,4286,Urbana
+16,Masculino,3,6.7,60.3%,Sim,0,4342,Rural
+16,Masculino,3,5.1,55.6%,Sim,Problemas Financeiros,3547,Urbana
+16,Feminino,3,6.8,95.7%,Sim,Problemas de Saúde,1051,Rural
+19,Feminino,3,9.3,85.2%,Sim,Falta de Apoio Escolar,1789,Urbana
+18,Masculino,2,7.4,77.5%,Não,0,4873,Rural
+19,Masculino,3,6.4,89.9%,Não,0,2516,Urbana
+14,Masculino,1,8.8,82.0%,Sim,0,3288,Rural
+18,Masculino,3,7.3,66.2%,Não,Falta de Interesse,1653,Urbana
+19,Feminino,2,6.0,83.6%,Sim,0,2493,Rural
+15,Feminino,2,5.9,85.0%,Não,0,1173,Rural
+19,Masculino,2,6.6,76.2%,Não,Falta de Apoio Familiar,4852,Rural
+16,Feminino,2,6.4,94.8%,Sim,0,2076,Urbana
+17,Feminino,3,5.4,89.6%,Não,0,899,Rural
+15,Feminino,3,9.2,95.6%,Sim,0,2231,Urbana
+18,Masculino,1,8.8,56.5%,Sim,0,4764,Urbana
+19,Masculino,1,8.2,98.7%,Não,0,2094,Rural
+17,Masculino,3,7.3,63.6%,Sim,0,2471,Rural
+19,Feminino,2,8.0,78.1%,Sim,Problemas de Saúde,2585,Rural
+17,Feminino,1,7.9,54.8%,Sim,Problemas Familiares,2064,Urbana
+18,Feminino,2,5.7,88.8%,Sim,0,2673,Urbana
+19,Masculino,2,7.8,55.0%,Sim,Problemas Financeiros,4010,Urbana
+16,Masculino,3,8.9,69.1%,Sim,0,989,Urbana
+19,Masculino,3,5.3,65.7%,Não,0,1260,Urbana
+15,Feminino,3,7.1,88.1%,Sim,Falta de Apoio Familiar,3177,Urbana
+17,Feminino,3,6.1,62.1%,Não,Problemas Familiares,1124,Urbana
+19,Masculino,2,7.4,52.3%,Não,0,4624,Rural
+14,Masculino,2,6.5,99.5%,Sim,0,1353,Urbana
+16,Feminino,3,8.6,91.8%,Não,0,3037,Urbana
+14,Feminino,3,6.4,57.2%,Não,0,1483,Urbana
+14,Feminino,3,6.8,53.0%,Não,Problemas Financeiros,4270,Urbana
+19,Feminino,1,8.2,78.7%,Não,Falta de Apoio Escolar,894,Urbana
+15,Masculino,1,9.2,77.7%,Não,Falta de Apoio Familiar,3966,Urbana
+14,Feminino,3,8.8,77.5%,Não,Problemas Financeiros,1019,Rural
+17,Masculino,1,5.4,71.3%,Sim,0,1670,Urbana
+17,Masculino,2,8.4,78.5%,Sim,Problemas Familiares,1783,Rural
+19,Masculino,3,5.5,90.0%,Sim,0,3700,Rural
+18,Feminino,3,8.9,99.2%,Não,Problemas Financeiros,1843,Urbana
+18,Feminino,1,8.3,65.7%,Sim,0,984,Urbana
+14,Masculino,3,7.9,74.8%,Sim,0,1238,Rural
+17,Feminino,3,7.1,76.2%,Não,Problemas Financeiros,3568,Rural
+18,Feminino,2,9.6,79.1%,Sim,0,2794,Urbana
+17,Masculino,2,7.8,92.0%,Sim,0,3670,Rural
+18,Feminino,2,8.5,80.2%,Sim,0,4511,Rural
+16,Masculino,3,8.5,91.9%,Sim,0,3812,Urbana
+15,Feminino,2,7.4,97.1%,Não,0,2372,Rural
+16,Masculino,3,8.8,59.3%,Não,Outros,4664,Urbana
+19,Feminino,2,6.2,55.5%,Não,0,1091,Rural
+16,Feminino,3,5.8,61.3%,Não,0,3155,Urbana
+18,Masculino,2,6.2,77.0%,Não,0,1602,Urbana
+19,Feminino,3,5.0,52.1%,Sim,Outros,4918,Urbana
+18,Masculino,3,7.6,96.3%,Não,0,4831,Rural
+14,Feminino,2,6.7,92.6%,Sim,0,4009,Urbana
+16,Feminino,2,8.6,73.9%,Não,Falta de Interesse,4416,Urbana
+18,Masculino,2,8.0,51.3%,Sim,0,3240,Urbana
+18,Masculino,3,8.4,71.7%,Sim,0,2936,Urbana
+14,Masculino,2,6.9,76.4%,Sim,0,2292,Rural
+18,Masculino,1,6.5,92.9%,Sim,Problemas de Saúde,1737,Rural
+19,Masculino,1,9.9,79.1%,Sim,0,1063,Urbana
+14,Feminino,3,8.8,61.9%,Não,Problemas de Saúde,4329,Rural
+18,Masculino,2,9.4,89.6%,Não,0,3618,Rural
+15,Feminino,3,5.1,79.1%,Sim,Falta de Apoio Familiar,2716,Rural
+19,Masculino,3,5.4,57.7%,Sim,Problemas Financeiros,4943,Urbana
+16,Feminino,3,10.0,64.8%,Não,Problemas de Saúde,4879,Rural
+17,Feminino,2,6.7,53.2%,Sim,0,4304,Urbana
+14,Masculino,1,5.4,72.5%,Não,0,3257,Rural
+15,Feminino,3,5.3,75.5%,Sim,Outros,2985,Urbana
+17,Feminino,3,6.1,51.1%,Sim,Falta de Apoio Escolar,1094,Urbana
+19,Masculino,2,7.5,51.9%,Não,0,1984,Rural
+16,Feminino,1,9.7,95.6%,Não,0,2387,Rural
+15,Masculino,2,9.0,53.2%,Sim,0,4658,Rural
+19,Feminino,3,7.5,61.1%,Não,0,3350,Urbana
+17,Feminino,1,8.4,92.5%,Sim,0,1773,Urbana
+16,Feminino,1,8.9,79.5%,Não,Problemas de Saúde,4350,Rural
+15,Masculino,3,7.2,80.3%,Não,0,2924,Urbana
+14,Feminino,1,5.1,79.4%,Sim,0,3245,Urbana
+14,Feminino,2,7.1,85.0%,Sim,Problemas Familiares,3890,Rural
+15,Feminino,1,5.4,94.2%,Sim,Problemas Familiares,915,Rural
+17,Masculino,1,7.0,86.8%,Não,0,4127,Urbana
+17,Masculino,3,9.7,90.4%,Não,0,4707,Rural
+16,Feminino,3,5.3,51.7%,Sim,0,2895,Rural
+18,Masculino,3,8.9,68.9%,Não,0,3452,Rural
+19,Feminino,1,9.7,51.0%,Sim,0,3624,Urbana
+18,Masculino,3,5.4,89.3%,Sim,0,4932,Urbana
+16,Feminino,2,6.4,80.9%,Sim,Outros,2477,Urbana
+16,Feminino,3,5.0,80.1%,Sim,Problemas de Saúde,1687,Rural
+19,Feminino,3,5.6,78.3%,Sim,0,811,Rural
+19,Masculino,1,5.0,79.1%,Sim,0,3482,Rural
+17,Feminino,3,8.1,90.0%,Não,Falta de Apoio Escolar,3710,Urbana
+18,Masculino,1,5.9,88.4%,Sim,0,1206,Urbana
+17,Masculino,1,6.9,71.3%,Não,0,3046,Urbana
+18,Feminino,3,9.0,76.6%,Não,Falta de Interesse,3993,Rural
+19,Masculino,1,7.2,75.9%,Sim,0,3231,Rural
+14,Feminino,2,6.7,100.0%,Sim,0,3793,Rural
+17,Masculino,3,9.0,66.2%,Não,0,3479,Rural
